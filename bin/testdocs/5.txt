@@ -1,0 +1,1125 @@
+<!DOCTYPE html>
+<html lang="en" class=" is-copy-enabled">
+  <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# object: http://ogp.me/ns/object# article: http://ogp.me/ns/article# profile: http://ogp.me/ns/profile#">
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta http-equiv="Content-Language" content="en">
+    
+    
+    <title>YuraFedorchuk (Yura) Ј GitHub</title>
+    <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
+    <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
+    <link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-114.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-144.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="/apple-touch-icon-144.png">
+    <meta property="fb:app_id" content="1401488693436528">
+
+      <meta content="@github" name="twitter:site" /><meta content="profile" name="twitter:card" /><meta content="YuraFedorchuk (Yura)" name="twitter:title" /><meta content="YuraFedorchuk has 4 repositories written in CSS and Java. Follow their code on GitHub." name="twitter:description" /><meta content="https://avatars3.githubusercontent.com/u/5493828?v=3&amp;s=400" name="twitter:image:src" />
+      <meta content="GitHub" property="og:site_name" /><meta content="profile" property="og:type" /><meta content="https://avatars3.githubusercontent.com/u/5493828?v=3&amp;s=400" property="og:image" /><meta content="YuraFedorchuk (Yura)" property="og:title" /><meta content="https://github.com/YuraFedorchuk" property="og:url" /><meta content="YuraFedorchuk has 4 repositories written in CSS and Java. Follow their code on GitHub." property="og:description" /><meta content="YuraFedorchuk" property="profile:username" />
+      <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
+    <meta name="browser-errors-url" content="https://api.github.com/_private/browser/errors">
+    <link rel="assets" href="https://assets-cdn.github.com/">
+    
+    <meta name="pjax-timeout" content="1000">
+    
+
+    <meta name="msapplication-TileImage" content="/windows-tile.png">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="selected-link" value="/YuraFedorchuk" data-pjax-transient>
+      <meta name="google-analytics" content="UA-3769691-2">
+
+    <meta content="collector.githubapp.com" name="octolytics-host" /><meta content="collector-cdn.github.com" name="octolytics-script-host" /><meta content="github" name="octolytics-app-id" /><meta content="D56C4AF4:1B10:2AE764:552792E9" name="octolytics-dimension-request_id" />
+    
+    <meta content="Rails, view, users#show" name="analytics-event" />
+    <meta class="js-ga-set" name="dimension1" content="Logged Out">
+    <meta class="js-ga-set" name="dimension2" content="Header v3">
+    <meta name="is-dotcom" content="true">
+    <meta name="hostname" content="github.com">
+    <meta name="user-login" content="">
+
+    
+    <link rel="icon" type="image/x-icon" href="https://assets-cdn.github.com/favicon.ico">
+
+
+    <meta content="authenticity_token" name="csrf-param" />
+<meta content="Cfga0Ba97SrvXqZJjGQnUzou3dX+7IRec17csGmwIPwxCQHmn+USjmD8hR/uEvr74XcIQBtSBz5SVB7cXJNx1Q==" name="csrf-token" />
+
+    <link href="https://assets-cdn.github.com/assets/github-6a4174aa7e25ce4268078491fdfa22273eef841d99e1ab07ccce9b89c747f55d.css" media="all" rel="stylesheet" />
+    <link href="https://assets-cdn.github.com/assets/github2-5b5e999e041f2586f9dc06b940229076225e6ec5ab5406be292a87331325fdc0.css" media="all" rel="stylesheet" />
+    
+    
+
+
+    <meta http-equiv="x-pjax-version" content="8ef4cce20ae9cf017054cfeff04ce121">
+
+        <link href="/YuraFedorchuk.atom" rel="alternate" title="atom" type="application/atom+xml">
+  <meta name="description" content="YuraFedorchuk has 4 repositories written in CSS and Java. Follow their code on GitHub.">
+  <meta content="5493828" name="octolytics-dimension-user_id" /><meta content="YuraFedorchuk" name="octolytics-dimension-user_login" />
+
+  </head>
+
+
+  <body class="logged_out  env-production windows  page-profile">
+    <a href="#start-of-content" tabindex="1" class="accessibility-aid js-skip-to-content">Skip to content</a>
+    <div class="wrapper">
+      
+      
+      
+
+
+        
+        <div class="header header-logged-out" role="banner">
+  <div class="container clearfix">
+
+    <a class="header-logo-wordmark" href="https://github.com/" data-ga-click="(Logged out) Header, go to homepage, icon:logo-wordmark">
+      <span class="mega-octicon octicon-logo-github"></span>
+    </a>
+
+    <div class="header-actions" role="navigation">
+        <a class="btn btn-primary" href="/join" data-ga-click="(Logged out) Header, clicked Sign up, text:sign-up">Sign up</a>
+      <a class="btn" href="/login?return_to=%2FYuraFedorchuk%3Ftab%3Dactivity" data-ga-click="(Logged out) Header, clicked Sign in, text:sign-in">Sign in</a>
+    </div>
+
+    <div class="site-search  js-site-search" role="search">
+      <form accept-charset="UTF-8" action="/search" class="js-site-search-form" data-global-search-url="/search" data-repo-search-url="" method="get"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /></div>
+  <input type="text"
+    class=""
+    data-hotkey="s"
+    name="q"
+    placeholder="Search GitHub"
+    data-global-scope-placeholder="Search GitHub"
+    data-repo-scope-placeholder="Search"
+    tabindex="1"
+    autocapitalize="off">
+  <div class="scope-badge">This repository</div>
+</form>
+    </div>
+
+      <ul class="header-nav left" role="navigation">
+          <li class="header-nav-item">
+            <a class="header-nav-link" href="/explore" data-ga-click="(Logged out) Header, go to explore, text:explore">Explore</a>
+          </li>
+          <li class="header-nav-item">
+            <a class="header-nav-link" href="/features" data-ga-click="(Logged out) Header, go to features, text:features">Features</a>
+          </li>
+          <li class="header-nav-item">
+            <a class="header-nav-link" href="https://enterprise.github.com/" data-ga-click="(Logged out) Header, go to enterprise, text:enterprise">Enterprise</a>
+          </li>
+          <li class="header-nav-item">
+            <a class="header-nav-link" href="/blog" data-ga-click="(Logged out) Header, go to blog, text:blog">Blog</a>
+          </li>
+      </ul>
+
+  </div>
+</div>
+
+
+
+      <div id="start-of-content" class="accessibility-aid"></div>
+        <div class="site clearfix" role="main">
+
+          <div id="site-container" class="context-loader-container" data-pjax-container>
+            
+            
+
+<div class="container">
+  <div class="columns profilecols js-username" data-name="YuraFedorchuk">
+    <div class="column one-fourth vcard" itemscope itemtype="http://schema.org/Person">
+        <a href="https://avatars3.githubusercontent.com/u/5493828?v=3&amp;s=400" aria-hidden="true" class="vcard-avatar" itemprop="image"><img alt="" class="avatar" data-user="5493828" height="230" src="https://avatars1.githubusercontent.com/u/5493828?v=3&amp;s=460" width="230" /></a>
+
+      <h1 class="vcard-names">
+  <span class="vcard-fullname" itemprop="name">Yura</span>
+  <span class="vcard-username" itemprop="additionalName">YuraFedorchuk</span>
+</h1>
+
+
+
+<ul class="vcard-details">
+      
+
+  <li class="vcard-detail" itemprop="homeLocation"><span class="octicon octicon-location"></span>Ukraine</li>
+    <li class="vcard-detail"><span class="octicon octicon-mail"></span><a class="email" href="mailto:&#x69;&#x6d;&#x61;&#x66;&#x6f;&#x73;&#x5f;&#x74;&#x40;&#x75;&#x6b;&#x72;&#x2e;&#x6e;&#x65;&#x74;">&#x69;&#x6d;&#x61;&#x66;&#x6f;&#x73;&#x5f;&#x74;&#x40;&#x75;&#x6b;&#x72;&#x2e;&#x6e;&#x65;&#x74;</a></li>
+  
+  <li class="vcard-detail"><span class="octicon octicon-clock"></span><span class="join-label">Joined on </span><time class="join-date" datetime="2013-09-19T11:58:19Z" day="numeric" is="local-time" month="short" year="numeric">Sep 19, 2013</time></li>
+</ul>
+
+
+      <div class="vcard-stats">
+        <a class="vcard-stat" href="/YuraFedorchuk/followers">
+          <strong class="vcard-stat-count">0</strong>
+          <span class="text-muted">Followers</span>
+        </a>
+        <a class="vcard-stat" href="/stars/YuraFedorchuk">
+          <strong class="vcard-stat-count">0</strong>
+          <span class="text-muted">Starred</span>
+        </a>
+        <a class="vcard-stat" href="/YuraFedorchuk/following">
+          <strong class="vcard-stat-count">0</strong>
+          <span class="text-muted">Following</span>
+        </a>
+      </div>
+
+    </div>
+
+    <div class="column three-fourths">
+
+
+      <div class="tabnav">
+          <div class="right">
+              <span class="user-following-container">
+    <span class="follow">
+      <a href="/login?return_to=%2FYuraFedorchuk%3Ftab%3Dactivity" class="btn btn-sm btn-primary">
+        <span class="octicon octicon-person"></span>
+        Follow
+      </a>
+    </span>
+  </span>
+
+          </div>
+
+        <nav class="tabnav-tabs" data-pjax role="navigation">
+          <a href="/YuraFedorchuk" class="tabnav-tab ">
+            <span class="octicon octicon-diff-added"></span>
+            Contributions
+          </a>
+          <a href="/YuraFedorchuk?tab=repositories" class="tabnav-tab ">
+            <span class="octicon octicon-repo"></span>
+            Repositories
+          </a>
+          <a href="/YuraFedorchuk?tab=activity" class="tabnav-tab selected">
+            <span class="octicon octicon-rss"></span>
+            Public activity
+          </a>
+        </nav>
+      </div>
+
+      <div class="tab-content js-repo-filter">
+          <div class="activity-tab">
+  <span class="feed-icon tooltipped tooltipped-sw" aria-label="Follow YuraFedorchuk's activity feed">
+    <a href="/YuraFedorchuk.atom"><span class="octicon octicon-rss"></span></a>
+  </span>
+  <div class="clearfix"></div>
+
+    
+      <div class="news public_news">
+          <div class="alert push"><div class="body"><!-- push -->
+<span class="mega-octicon octicon-git-commit"></span>
+
+<div class="time">
+  <time datetime="2015-03-22T10:40:09Z" is="relative-time">Mar 22, 2015</time>
+</div>
+
+<div class="title">
+  <a href="https://github.com/YuraFedorchuk" data-ga-click="News feed, event click, Event click type:PushEvent target:actor">YuraFedorchuk</a> <span>pushed</span> to <a href="/YuraFedorchuk/test/tree/master" data-ga-click="News feed, event click, Event click type:PushEvent target:branch">master</a> at <a href="https://github.com/YuraFedorchuk/test" data-ga-click="News feed, event click, Event click type:PushEvent target:repo">YuraFedorchuk/test</a>
+</div>
+
+<div class="details">
+  <a href="https://github.com/YuraFedorchuk"><img alt="@YuraFedorchuk" class="gravatar" data-user="5493828" height="30" src="https://avatars1.githubusercontent.com/u/5493828?v=3&amp;s=60" width="30" /></a>
+
+    <div class="commits pusher-is-only-committer">
+      <ul>
+        <li>
+          <span title="YuraFedorchuk">
+            <img alt="@YuraFedorchuk" data-user="5493828" height="16" src="https://avatars0.githubusercontent.com/u/5493828?v=3&amp;s=32" width="16" />
+          </span>
+          <code><a href="/YuraFedorchuk/test/commit/50877e25a8d0f400495ac41daaffd01af611acbe" data-ga-click="News feed, event click, Event click type:PushEvent target:sha">50877e2</a></code>
+          <div class="message">
+            <blockquote>
+              change a.txt once more
+            </blockquote>
+          </div>
+        </li>
+        <li>
+          <span title="YuraFedorchuk">
+            <img alt="@YuraFedorchuk" data-user="5493828" height="16" src="https://avatars0.githubusercontent.com/u/5493828?v=3&amp;s=32" width="16" />
+          </span>
+          <code><a href="/YuraFedorchuk/test/commit/54e8e9e0b0662b4a4c29e8758683466cbb03e502" data-ga-click="News feed, event click, Event click type:PushEvent target:sha">54e8e9e</a></code>
+          <div class="message">
+            <blockquote>
+              add a.txt to gitignore formal
+            </blockquote>
+          </div>
+        </li>
+        <li class="more"><a href="https://github.com/YuraFedorchuk/test/compare/4bb8e5ea81...50877e25a8" data-ga-click="News feed, event click, Event click type:PushEvent target:comparison">View comparison for these 2 commits &raquo;</a></li>
+      </ul>
+    </div>
+</div>
+</div></div>
+          <div class="alert push"><div class="body"><!-- push -->
+<span class="mega-octicon octicon-git-commit"></span>
+
+<div class="time">
+  <time datetime="2015-03-22T10:39:18Z" is="relative-time">Mar 22, 2015</time>
+</div>
+
+<div class="title">
+  <a href="https://github.com/YuraFedorchuk" data-ga-click="News feed, event click, Event click type:PushEvent target:actor">YuraFedorchuk</a> <span>pushed</span> to <a href="/YuraFedorchuk/test/tree/master" data-ga-click="News feed, event click, Event click type:PushEvent target:branch">master</a> at <a href="https://github.com/YuraFedorchuk/test" data-ga-click="News feed, event click, Event click type:PushEvent target:repo">YuraFedorchuk/test</a>
+</div>
+
+<div class="details">
+  <a href="https://github.com/YuraFedorchuk"><img alt="@YuraFedorchuk" class="gravatar" data-user="5493828" height="30" src="https://avatars1.githubusercontent.com/u/5493828?v=3&amp;s=60" width="30" /></a>
+
+    <div class="commits pusher-is-only-committer">
+      <ul>
+        <li>
+          <span title="YuraFedorchuk">
+            <img alt="@YuraFedorchuk" data-user="5493828" height="16" src="https://avatars0.githubusercontent.com/u/5493828?v=3&amp;s=32" width="16" />
+          </span>
+          <code><a href="/YuraFedorchuk/test/commit/4bb8e5ea81c77d0e2fef92248d497d1ca7682f85" data-ga-click="News feed, event click, Event click type:PushEvent target:sha">4bb8e5e</a></code>
+          <div class="message">
+            <blockquote>
+              change a.txt
+            </blockquote>
+          </div>
+        </li>
+      </ul>
+    </div>
+</div>
+</div></div>
+          <div class="alert push"><div class="body"><!-- push -->
+<span class="mega-octicon octicon-git-commit"></span>
+
+<div class="time">
+  <time datetime="2015-03-22T10:38:07Z" is="relative-time">Mar 22, 2015</time>
+</div>
+
+<div class="title">
+  <a href="https://github.com/YuraFedorchuk" data-ga-click="News feed, event click, Event click type:PushEvent target:actor">YuraFedorchuk</a> <span>pushed</span> to <a href="/YuraFedorchuk/test/tree/master" data-ga-click="News feed, event click, Event click type:PushEvent target:branch">master</a> at <a href="https://github.com/YuraFedorchuk/test" data-ga-click="News feed, event click, Event click type:PushEvent target:repo">YuraFedorchuk/test</a>
+</div>
+
+<div class="details">
+  <a href="https://github.com/YuraFedorchuk"><img alt="@YuraFedorchuk" class="gravatar" data-user="5493828" height="30" src="https://avatars1.githubusercontent.com/u/5493828?v=3&amp;s=60" width="30" /></a>
+
+    <div class="commits pusher-is-only-committer">
+      <ul>
+        <li>
+          <span title="YuraFedorchuk">
+            <img alt="@YuraFedorchuk" data-user="5493828" height="16" src="https://avatars0.githubusercontent.com/u/5493828?v=3&amp;s=32" width="16" />
+          </span>
+          <code><a href="/YuraFedorchuk/test/commit/973dca4d4392c735fcdccadb1e301854da03e5b6" data-ga-click="News feed, event click, Event click type:PushEvent target:sha">973dca4</a></code>
+          <div class="message">
+            <blockquote>
+              delete a.txt from gitignore
+            </blockquote>
+          </div>
+        </li>
+      </ul>
+    </div>
+</div>
+</div></div>
+          <div class="alert push"><div class="body"><!-- push -->
+<span class="mega-octicon octicon-git-commit"></span>
+
+<div class="time">
+  <time datetime="2015-03-22T10:34:44Z" is="relative-time">Mar 22, 2015</time>
+</div>
+
+<div class="title">
+  <a href="https://github.com/YuraFedorchuk" data-ga-click="News feed, event click, Event click type:PushEvent target:actor">YuraFedorchuk</a> <span>pushed</span> to <a href="/YuraFedorchuk/test/tree/master" data-ga-click="News feed, event click, Event click type:PushEvent target:branch">master</a> at <a href="https://github.com/YuraFedorchuk/test" data-ga-click="News feed, event click, Event click type:PushEvent target:repo">YuraFedorchuk/test</a>
+</div>
+
+<div class="details">
+  <a href="https://github.com/YuraFedorchuk"><img alt="@YuraFedorchuk" class="gravatar" data-user="5493828" height="30" src="https://avatars1.githubusercontent.com/u/5493828?v=3&amp;s=60" width="30" /></a>
+
+    <div class="commits pusher-is-only-committer">
+      <ul>
+        <li>
+          <span title="YuraFedorchuk">
+            <img alt="@YuraFedorchuk" data-user="5493828" height="16" src="https://avatars0.githubusercontent.com/u/5493828?v=3&amp;s=32" width="16" />
+          </span>
+          <code><a href="/YuraFedorchuk/test/commit/32daf348434eb70e3e1b87e80aea24f36d90ceb0" data-ga-click="News feed, event click, Event click type:PushEvent target:sha">32daf34</a></code>
+          <div class="message">
+            <blockquote>
+              gitignore add a.txt
+            </blockquote>
+          </div>
+        </li>
+        <li>
+          <span title="YuraFedorchuk">
+            <img alt="@YuraFedorchuk" data-user="5493828" height="16" src="https://avatars0.githubusercontent.com/u/5493828?v=3&amp;s=32" width="16" />
+          </span>
+          <code><a href="/YuraFedorchuk/test/commit/78233a1379bddc8120c4981b8ca0693e9cbeb284" data-ga-click="News feed, event click, Event click type:PushEvent target:sha">78233a1</a></code>
+          <div class="message">
+            <blockquote>
+              delete 2 files
+            </blockquote>
+          </div>
+        </li>
+        <li class="more"><a href="https://github.com/YuraFedorchuk/test/compare/5352b9c990...32daf34843" data-ga-click="News feed, event click, Event click type:PushEvent target:comparison">View comparison for these 2 commits &raquo;</a></li>
+      </ul>
+    </div>
+</div>
+</div></div>
+          <div class="alert push"><div class="body"><!-- push -->
+<span class="mega-octicon octicon-git-commit"></span>
+
+<div class="time">
+  <time datetime="2015-03-22T10:33:20Z" is="relative-time">Mar 22, 2015</time>
+</div>
+
+<div class="title">
+  <a href="https://github.com/YuraFedorchuk" data-ga-click="News feed, event click, Event click type:PushEvent target:actor">YuraFedorchuk</a> <span>pushed</span> to <a href="/YuraFedorchuk/test/tree/master" data-ga-click="News feed, event click, Event click type:PushEvent target:branch">master</a> at <a href="https://github.com/YuraFedorchuk/test" data-ga-click="News feed, event click, Event click type:PushEvent target:repo">YuraFedorchuk/test</a>
+</div>
+
+<div class="details">
+  <a href="https://github.com/YuraFedorchuk"><img alt="@YuraFedorchuk" class="gravatar" data-user="5493828" height="30" src="https://avatars1.githubusercontent.com/u/5493828?v=3&amp;s=60" width="30" /></a>
+
+    <div class="commits pusher-is-only-committer">
+      <ul>
+        <li>
+          <span title="YuraFedorchuk">
+            <img alt="@YuraFedorchuk" data-user="5493828" height="16" src="https://avatars0.githubusercontent.com/u/5493828?v=3&amp;s=32" width="16" />
+          </span>
+          <code><a href="/YuraFedorchuk/test/commit/5352b9c9904028c9e729878f7ad2135772ac2d38" data-ga-click="News feed, event click, Event click type:PushEvent target:sha">5352b9c</a></code>
+          <div class="message">
+            <blockquote>
+              sdfsdf
+            </blockquote>
+          </div>
+        </li>
+        <li>
+          <span title="YuraFedorchuk">
+            <img alt="@YuraFedorchuk" data-user="5493828" height="16" src="https://avatars0.githubusercontent.com/u/5493828?v=3&amp;s=32" width="16" />
+          </span>
+          <code><a href="/YuraFedorchuk/test/commit/c9c0313a439180689b8444d5ea5d5915a2db9831" data-ga-click="News feed, event click, Event click type:PushEvent target:sha">c9c0313</a></code>
+          <div class="message">
+            <blockquote>
+              add to gitignore
+            </blockquote>
+          </div>
+        </li>
+        <li class="more"><a href="https://github.com/YuraFedorchuk/test/compare/83623587e0...5352b9c990" data-ga-click="News feed, event click, Event click type:PushEvent target:comparison">View comparison for these 2 commits &raquo;</a></li>
+      </ul>
+    </div>
+</div>
+</div></div>
+          <div class="alert push"><div class="body"><!-- push -->
+<span class="mega-octicon octicon-git-commit"></span>
+
+<div class="time">
+  <time datetime="2015-03-22T10:28:52Z" is="relative-time">Mar 22, 2015</time>
+</div>
+
+<div class="title">
+  <a href="https://github.com/YuraFedorchuk" data-ga-click="News feed, event click, Event click type:PushEvent target:actor">YuraFedorchuk</a> <span>pushed</span> to <a href="/YuraFedorchuk/test/tree/master" data-ga-click="News feed, event click, Event click type:PushEvent target:branch">master</a> at <a href="https://github.com/YuraFedorchuk/test" data-ga-click="News feed, event click, Event click type:PushEvent target:repo">YuraFedorchuk/test</a>
+</div>
+
+<div class="details">
+  <a href="https://github.com/YuraFedorchuk"><img alt="@YuraFedorchuk" class="gravatar" data-user="5493828" height="30" src="https://avatars1.githubusercontent.com/u/5493828?v=3&amp;s=60" width="30" /></a>
+
+    <div class="commits pusher-is-only-committer">
+      <ul>
+        <li>
+          <span title="YuraFedorchuk">
+            <img alt="@YuraFedorchuk" data-user="5493828" height="16" src="https://avatars0.githubusercontent.com/u/5493828?v=3&amp;s=32" width="16" />
+          </span>
+          <code><a href="/YuraFedorchuk/test/commit/83623587e0832ee11217e37f6b16131b0383d30f" data-ga-click="News feed, event click, Event click type:PushEvent target:sha">8362358</a></code>
+          <div class="message">
+            <blockquote>
+              add new line
+            </blockquote>
+          </div>
+        </li>
+      </ul>
+    </div>
+</div>
+</div></div>
+          <div class="alert push"><div class="body"><!-- push -->
+<span class="mega-octicon octicon-git-commit"></span>
+
+<div class="time">
+  <time datetime="2015-03-22T10:28:05Z" is="relative-time">Mar 22, 2015</time>
+</div>
+
+<div class="title">
+  <a href="https://github.com/YuraFedorchuk" data-ga-click="News feed, event click, Event click type:PushEvent target:actor">YuraFedorchuk</a> <span>pushed</span> to <a href="/YuraFedorchuk/test/tree/master" data-ga-click="News feed, event click, Event click type:PushEvent target:branch">master</a> at <a href="https://github.com/YuraFedorchuk/test" data-ga-click="News feed, event click, Event click type:PushEvent target:repo">YuraFedorchuk/test</a>
+</div>
+
+<div class="details">
+  <a href="https://github.com/YuraFedorchuk"><img alt="@YuraFedorchuk" class="gravatar" data-user="5493828" height="30" src="https://avatars1.githubusercontent.com/u/5493828?v=3&amp;s=60" width="30" /></a>
+
+    <div class="commits pusher-is-only-committer">
+      <ul>
+        <li>
+          <span title="YuraFedorchuk">
+            <img alt="@YuraFedorchuk" data-user="5493828" height="16" src="https://avatars0.githubusercontent.com/u/5493828?v=3&amp;s=32" width="16" />
+          </span>
+          <code><a href="/YuraFedorchuk/test/commit/c400d3497c7fdc477b5d096d4ac0bff2bffe64bd" data-ga-click="News feed, event click, Event click type:PushEvent target:sha">c400d34</a></code>
+          <div class="message">
+            <blockquote>
+              add bla.txt
+            </blockquote>
+          </div>
+        </li>
+      </ul>
+    </div>
+</div>
+</div></div>
+          <div class="alert push"><div class="body"><!-- push -->
+<span class="mega-octicon octicon-git-commit"></span>
+
+<div class="time">
+  <time datetime="2015-03-21T07:57:20Z" is="relative-time">Mar 21, 2015</time>
+</div>
+
+<div class="title">
+  <a href="https://github.com/YuraFedorchuk" data-ga-click="News feed, event click, Event click type:PushEvent target:actor">YuraFedorchuk</a> <span>pushed</span> to <a href="/YuraFedorchuk/test/tree/master" data-ga-click="News feed, event click, Event click type:PushEvent target:branch">master</a> at <a href="https://github.com/YuraFedorchuk/test" data-ga-click="News feed, event click, Event click type:PushEvent target:repo">YuraFedorchuk/test</a>
+</div>
+
+<div class="details">
+  <a href="https://github.com/YuraFedorchuk"><img alt="@YuraFedorchuk" class="gravatar" data-user="5493828" height="30" src="https://avatars1.githubusercontent.com/u/5493828?v=3&amp;s=60" width="30" /></a>
+
+    <div class="commits pusher-is-only-committer">
+      <ul>
+        <li>
+          <span title="YuraFedorchuk">
+            <img alt="@YuraFedorchuk" data-user="5493828" height="16" src="https://avatars0.githubusercontent.com/u/5493828?v=3&amp;s=32" width="16" />
+          </span>
+          <code><a href="/YuraFedorchuk/test/commit/725d0211a9216aa2c6c29d6eabbc93141a068a31" data-ga-click="News feed, event click, Event click type:PushEvent target:sha">725d021</a></code>
+          <div class="message">
+            <blockquote>
+              delete gitignore.txt
+            </blockquote>
+          </div>
+        </li>
+      </ul>
+    </div>
+</div>
+</div></div>
+          <div class="alert push"><div class="body"><!-- push -->
+<span class="mega-octicon octicon-git-commit"></span>
+
+<div class="time">
+  <time datetime="2015-03-21T06:31:47Z" is="relative-time">Mar 21, 2015</time>
+</div>
+
+<div class="title">
+  <a href="https://github.com/YuraFedorchuk" data-ga-click="News feed, event click, Event click type:PushEvent target:actor">YuraFedorchuk</a> <span>pushed</span> to <a href="/YuraFedorchuk/test/tree/master" data-ga-click="News feed, event click, Event click type:PushEvent target:branch">master</a> at <a href="https://github.com/YuraFedorchuk/test" data-ga-click="News feed, event click, Event click type:PushEvent target:repo">YuraFedorchuk/test</a>
+</div>
+
+<div class="details">
+  <a href="https://github.com/YuraFedorchuk"><img alt="@YuraFedorchuk" class="gravatar" data-user="5493828" height="30" src="https://avatars1.githubusercontent.com/u/5493828?v=3&amp;s=60" width="30" /></a>
+
+    <div class="commits pusher-is-only-committer">
+      <ul>
+        <li>
+          <span title="YuraFedorchuk">
+            <img alt="@YuraFedorchuk" data-user="5493828" height="16" src="https://avatars0.githubusercontent.com/u/5493828?v=3&amp;s=32" width="16" />
+          </span>
+          <code><a href="/YuraFedorchuk/test/commit/7516eb686680f85e83569c3c5913c659978d2f64" data-ga-click="News feed, event click, Event click type:PushEvent target:sha">7516eb6</a></code>
+          <div class="message">
+            <blockquote>
+              delete toignore.txt
+            </blockquote>
+          </div>
+        </li>
+      </ul>
+    </div>
+</div>
+</div></div>
+          <div class="alert push"><div class="body"><!-- push -->
+<span class="mega-octicon octicon-git-commit"></span>
+
+<div class="time">
+  <time datetime="2015-03-21T06:24:35Z" is="relative-time">Mar 21, 2015</time>
+</div>
+
+<div class="title">
+  <a href="https://github.com/YuraFedorchuk" data-ga-click="News feed, event click, Event click type:PushEvent target:actor">YuraFedorchuk</a> <span>pushed</span> to <a href="/YuraFedorchuk/test/tree/master" data-ga-click="News feed, event click, Event click type:PushEvent target:branch">master</a> at <a href="https://github.com/YuraFedorchuk/test" data-ga-click="News feed, event click, Event click type:PushEvent target:repo">YuraFedorchuk/test</a>
+</div>
+
+<div class="details">
+  <a href="https://github.com/YuraFedorchuk"><img alt="@YuraFedorchuk" class="gravatar" data-user="5493828" height="30" src="https://avatars1.githubusercontent.com/u/5493828?v=3&amp;s=60" width="30" /></a>
+
+    <div class="commits pusher-is-only-committer">
+      <ul>
+        <li>
+          <span title="YuraFedorchuk">
+            <img alt="@YuraFedorchuk" data-user="5493828" height="16" src="https://avatars0.githubusercontent.com/u/5493828?v=3&amp;s=32" width="16" />
+          </span>
+          <code><a href="/YuraFedorchuk/test/commit/895aa5a9ab02ee540ba4acf86b2c425928c6f678" data-ga-click="News feed, event click, Event click type:PushEvent target:sha">895aa5a</a></code>
+          <div class="message">
+            <blockquote>
+              add toignore.txt to gitignore
+            </blockquote>
+          </div>
+        </li>
+      </ul>
+    </div>
+</div>
+</div></div>
+          <div class="alert push"><div class="body"><!-- push -->
+<span class="mega-octicon octicon-git-commit"></span>
+
+<div class="time">
+  <time datetime="2015-03-21T06:23:23Z" is="relative-time">Mar 21, 2015</time>
+</div>
+
+<div class="title">
+  <a href="https://github.com/YuraFedorchuk" data-ga-click="News feed, event click, Event click type:PushEvent target:actor">YuraFedorchuk</a> <span>pushed</span> to <a href="/YuraFedorchuk/test/tree/master" data-ga-click="News feed, event click, Event click type:PushEvent target:branch">master</a> at <a href="https://github.com/YuraFedorchuk/test" data-ga-click="News feed, event click, Event click type:PushEvent target:repo">YuraFedorchuk/test</a>
+</div>
+
+<div class="details">
+  <a href="https://github.com/YuraFedorchuk"><img alt="@YuraFedorchuk" class="gravatar" data-user="5493828" height="30" src="https://avatars1.githubusercontent.com/u/5493828?v=3&amp;s=60" width="30" /></a>
+
+    <div class="commits pusher-is-only-committer">
+      <ul>
+        <li>
+          <span title="YuraFedorchuk">
+            <img alt="@YuraFedorchuk" data-user="5493828" height="16" src="https://avatars0.githubusercontent.com/u/5493828?v=3&amp;s=32" width="16" />
+          </span>
+          <code><a href="/YuraFedorchuk/test/commit/db423d01a3c5632f6c73f9c09ffb0ff4b6261bda" data-ga-click="News feed, event click, Event click type:PushEvent target:sha">db423d0</a></code>
+          <div class="message">
+            <blockquote>
+              gitignore correctly created
+            </blockquote>
+          </div>
+        </li>
+        <li>
+          <span title="YuraFedorchuk">
+            <img alt="@YuraFedorchuk" data-user="5493828" height="16" src="https://avatars0.githubusercontent.com/u/5493828?v=3&amp;s=32" width="16" />
+          </span>
+          <code><a href="/YuraFedorchuk/test/commit/91304794481f3e36af36547bbbd6aab67faeb1b7" data-ga-click="News feed, event click, Event click type:PushEvent target:sha">9130479</a></code>
+          <div class="message">
+            <blockquote>
+              rename gitignore
+            </blockquote>
+          </div>
+        </li>
+        <li class="more"><a href="https://github.com/YuraFedorchuk/test/compare/1acebc6433...db423d01a3" data-ga-click="News feed, event click, Event click type:PushEvent target:comparison">View comparison for these 2 commits &raquo;</a></li>
+      </ul>
+    </div>
+</div>
+</div></div>
+          <div class="alert push"><div class="body"><!-- push -->
+<span class="mega-octicon octicon-git-commit"></span>
+
+<div class="time">
+  <time datetime="2015-03-21T06:19:22Z" is="relative-time">Mar 21, 2015</time>
+</div>
+
+<div class="title">
+  <a href="https://github.com/YuraFedorchuk" data-ga-click="News feed, event click, Event click type:PushEvent target:actor">YuraFedorchuk</a> <span>pushed</span> to <a href="/YuraFedorchuk/test/tree/master" data-ga-click="News feed, event click, Event click type:PushEvent target:branch">master</a> at <a href="https://github.com/YuraFedorchuk/test" data-ga-click="News feed, event click, Event click type:PushEvent target:repo">YuraFedorchuk/test</a>
+</div>
+
+<div class="details">
+  <a href="https://github.com/YuraFedorchuk"><img alt="@YuraFedorchuk" class="gravatar" data-user="5493828" height="30" src="https://avatars1.githubusercontent.com/u/5493828?v=3&amp;s=60" width="30" /></a>
+
+    <div class="commits pusher-is-only-committer">
+      <ul>
+        <li>
+          <span title="YuraFedorchuk">
+            <img alt="@YuraFedorchuk" data-user="5493828" height="16" src="https://avatars0.githubusercontent.com/u/5493828?v=3&amp;s=32" width="16" />
+          </span>
+          <code><a href="/YuraFedorchuk/test/commit/1acebc6433bc2b462b727b6bf216c60027edca61" data-ga-click="News feed, event click, Event click type:PushEvent target:sha">1acebc6</a></code>
+          <div class="message">
+            <blockquote>
+              add .gitignore
+            </blockquote>
+          </div>
+        </li>
+      </ul>
+    </div>
+</div>
+</div></div>
+          <div class="alert push"><div class="body"><!-- push -->
+<span class="mega-octicon octicon-git-commit"></span>
+
+<div class="time">
+  <time datetime="2015-03-21T06:18:23Z" is="relative-time">Mar 21, 2015</time>
+</div>
+
+<div class="title">
+  <a href="https://github.com/YuraFedorchuk" data-ga-click="News feed, event click, Event click type:PushEvent target:actor">YuraFedorchuk</a> <span>pushed</span> to <a href="/YuraFedorchuk/test/tree/master" data-ga-click="News feed, event click, Event click type:PushEvent target:branch">master</a> at <a href="https://github.com/YuraFedorchuk/test" data-ga-click="News feed, event click, Event click type:PushEvent target:repo">YuraFedorchuk/test</a>
+</div>
+
+<div class="details">
+  <a href="https://github.com/YuraFedorchuk"><img alt="@YuraFedorchuk" class="gravatar" data-user="5493828" height="30" src="https://avatars1.githubusercontent.com/u/5493828?v=3&amp;s=60" width="30" /></a>
+
+    <div class="commits pusher-is-only-committer">
+      <ul>
+        <li>
+          <span title="YuraFedorchuk">
+            <img alt="@YuraFedorchuk" data-user="5493828" height="16" src="https://avatars0.githubusercontent.com/u/5493828?v=3&amp;s=32" width="16" />
+          </span>
+          <code><a href="/YuraFedorchuk/test/commit/e4d435f905f4244e393675a56b0a5261d9382bbc" data-ga-click="News feed, event click, Event click type:PushEvent target:sha">e4d435f</a></code>
+          <div class="message">
+            <blockquote>
+              add toignore file
+            </blockquote>
+          </div>
+        </li>
+      </ul>
+    </div>
+</div>
+</div></div>
+          <div class="alert push"><div class="body"><!-- push -->
+<span class="mega-octicon octicon-git-commit"></span>
+
+<div class="time">
+  <time datetime="2015-03-21T06:16:03Z" is="relative-time">Mar 21, 2015</time>
+</div>
+
+<div class="title">
+  <a href="https://github.com/YuraFedorchuk" data-ga-click="News feed, event click, Event click type:PushEvent target:actor">YuraFedorchuk</a> <span>pushed</span> to <a href="/YuraFedorchuk/test/tree/master" data-ga-click="News feed, event click, Event click type:PushEvent target:branch">master</a> at <a href="https://github.com/YuraFedorchuk/test" data-ga-click="News feed, event click, Event click type:PushEvent target:repo">YuraFedorchuk/test</a>
+</div>
+
+<div class="details">
+  <a href="https://github.com/YuraFedorchuk"><img alt="@YuraFedorchuk" class="gravatar" data-user="5493828" height="30" src="https://avatars1.githubusercontent.com/u/5493828?v=3&amp;s=60" width="30" /></a>
+
+    <div class="commits pusher-is-only-committer">
+      <ul>
+        <li>
+          <span title="YuraFedorchuk">
+            <img alt="@YuraFedorchuk" data-user="5493828" height="16" src="https://avatars0.githubusercontent.com/u/5493828?v=3&amp;s=32" width="16" />
+          </span>
+          <code><a href="/YuraFedorchuk/test/commit/052f5762a374473dab238cf46ebf685a33f6da80" data-ga-click="News feed, event click, Event click type:PushEvent target:sha">052f576</a></code>
+          <div class="message">
+            <blockquote>
+              new commit
+            </blockquote>
+          </div>
+        </li>
+      </ul>
+    </div>
+</div>
+</div></div>
+          <div class="alert push"><div class="body"><!-- push -->
+<span class="mega-octicon octicon-git-commit"></span>
+
+<div class="time">
+  <time datetime="2015-03-18T17:48:24Z" is="relative-time">Mar 18, 2015</time>
+</div>
+
+<div class="title">
+  <a href="https://github.com/YuraFedorchuk" data-ga-click="News feed, event click, Event click type:PushEvent target:actor">YuraFedorchuk</a> <span>pushed</span> to <a href="/nazarmsx/nerukhomist-UPP/tree/master" data-ga-click="News feed, event click, Event click type:PushEvent target:branch">master</a> at <a href="https://github.com/nazarmsx/nerukhomist-UPP" data-ga-click="News feed, event click, Event click type:PushEvent target:repo">nazarmsx/nerukhomist-UPP</a>
+</div>
+
+<div class="details">
+  <a href="https://github.com/YuraFedorchuk"><img alt="@YuraFedorchuk" class="gravatar" data-user="5493828" height="30" src="https://avatars1.githubusercontent.com/u/5493828?v=3&amp;s=60" width="30" /></a>
+
+    <div class="commits pusher-is-only-committer">
+      <ul>
+        <li>
+          <span title="YuraFedorchuk">
+            <img alt="@YuraFedorchuk" data-user="5493828" height="16" src="https://avatars0.githubusercontent.com/u/5493828?v=3&amp;s=32" width="16" />
+          </span>
+          <code><a href="/nazarmsx/nerukhomist-UPP/commit/b5398965fc6cb7cee3af4f68400063730d247d7f" data-ga-click="News feed, event click, Event click type:PushEvent target:sha">b539896</a></code>
+          <div class="message">
+            <blockquote>
+              new EditProfit interface added (without handlers!!)
+            </blockquote>
+          </div>
+        </li>
+      </ul>
+    </div>
+</div>
+</div></div>
+          <div class="alert commit_comment"><div class="body"><!-- commit_comment -->
+<span class="mega-octicon octicon-comment-discussion"></span>
+
+<div class="time">
+  <time datetime="2015-03-18T16:27:13Z" is="relative-time">Mar 18, 2015</time>
+</div>
+
+<div class="title">
+  <a href="https://github.com/YuraFedorchuk" data-ga-click="News feed, event click, Event click type:CommitCommentEvent target:actor">YuraFedorchuk</a> <span>commented</span> on commit <a href="https://github.com/nazarmsx/nerukhomist-UPP/commit/e17adeb3c6cc4e41970570f9db08c30ffbad08ff#commitcomment-10268051" data-ga-click="News feed, event click, Event click type:CommitCommentEvent target:commit-comment">nazarmsx/nerukhomist-UPP@e17adeb3c6</a>
+</div>
+
+<div class="details">
+  <a href="https://github.com/YuraFedorchuk"><img alt="@YuraFedorchuk" class="gravatar" data-user="5493828" height="30" src="https://avatars1.githubusercontent.com/u/5493828?v=3&amp;s=60" width="30" /></a>
+  <div class="message markdown-body">
+    <blockquote>
+      <p>«розум≥в) перероблю на англ≥йську краще </p>
+    </blockquote>
+  </div>
+</div>
+</div></div>
+          <div class="alert commit_comment"><div class="body"><!-- commit_comment -->
+<span class="mega-octicon octicon-comment-discussion"></span>
+
+<div class="time">
+  <time datetime="2015-03-18T14:24:07Z" is="relative-time">Mar 18, 2015</time>
+</div>
+
+<div class="title">
+  <a href="https://github.com/YuraFedorchuk" data-ga-click="News feed, event click, Event click type:CommitCommentEvent target:actor">YuraFedorchuk</a> <span>commented</span> on commit <a href="https://github.com/nazarmsx/nerukhomist-UPP/commit/e17adeb3c6cc4e41970570f9db08c30ffbad08ff#commitcomment-10264833" data-ga-click="News feed, event click, Event click type:CommitCommentEvent target:commit-comment">nazarmsx/nerukhomist-UPP@e17adeb3c6</a>
+</div>
+
+<div class="details">
+  <a href="https://github.com/YuraFedorchuk"><img alt="@YuraFedorchuk" class="gravatar" data-user="5493828" height="30" src="https://avatars1.githubusercontent.com/u/5493828?v=3&amp;s=60" width="30" /></a>
+  <div class="message markdown-body">
+    <blockquote>
+      <p>…опта, € не знав що воно не читаЇ кирилицю) а з приводу кодуванн€ що саме полет≥ло? якщо кнопка profits, то так ≥ повинно бути, бо в нас нова база,Е</p>
+    </blockquote>
+  </div>
+</div>
+</div></div>
+          <div class="alert push"><div class="body"><!-- push -->
+<span class="mega-octicon octicon-git-commit"></span>
+
+<div class="time">
+  <time datetime="2015-03-18T08:31:28Z" is="relative-time">Mar 18, 2015</time>
+</div>
+
+<div class="title">
+  <a href="https://github.com/YuraFedorchuk" data-ga-click="News feed, event click, Event click type:PushEvent target:actor">YuraFedorchuk</a> <span>pushed</span> to <a href="/nazarmsx/nerukhomist-UPP/tree/master" data-ga-click="News feed, event click, Event click type:PushEvent target:branch">master</a> at <a href="https://github.com/nazarmsx/nerukhomist-UPP" data-ga-click="News feed, event click, Event click type:PushEvent target:repo">nazarmsx/nerukhomist-UPP</a>
+</div>
+
+<div class="details">
+  <a href="https://github.com/YuraFedorchuk"><img alt="@YuraFedorchuk" class="gravatar" data-user="5493828" height="30" src="https://avatars1.githubusercontent.com/u/5493828?v=3&amp;s=60" width="30" /></a>
+
+    <div class="commits pusher-is-only-committer">
+      <ul>
+        <li>
+          <span title="YuraFedorchuk">
+            <img alt="@YuraFedorchuk" data-user="5493828" height="16" src="https://avatars0.githubusercontent.com/u/5493828?v=3&amp;s=32" width="16" />
+          </span>
+          <code><a href="/nazarmsx/nerukhomist-UPP/commit/4d39507d11c914446d5813c56d43c13133558daa" data-ga-click="News feed, event click, Event click type:PushEvent target:sha">4d39507</a></code>
+          <div class="message">
+            <blockquote>
+              more comments EditProfit.java
+            </blockquote>
+          </div>
+        </li>
+      </ul>
+    </div>
+</div>
+</div></div>
+          <div class="alert push"><div class="body"><!-- push -->
+<span class="mega-octicon octicon-git-commit"></span>
+
+<div class="time">
+  <time datetime="2015-03-18T08:26:50Z" is="relative-time">Mar 18, 2015</time>
+</div>
+
+<div class="title">
+  <a href="https://github.com/YuraFedorchuk" data-ga-click="News feed, event click, Event click type:PushEvent target:actor">YuraFedorchuk</a> <span>pushed</span> to <a href="/nazarmsx/nerukhomist-UPP/tree/master" data-ga-click="News feed, event click, Event click type:PushEvent target:branch">master</a> at <a href="https://github.com/nazarmsx/nerukhomist-UPP" data-ga-click="News feed, event click, Event click type:PushEvent target:repo">nazarmsx/nerukhomist-UPP</a>
+</div>
+
+<div class="details">
+  <a href="https://github.com/YuraFedorchuk"><img alt="@YuraFedorchuk" class="gravatar" data-user="5493828" height="30" src="https://avatars1.githubusercontent.com/u/5493828?v=3&amp;s=60" width="30" /></a>
+
+    <div class="commits pusher-is-only-committer">
+      <ul>
+        <li>
+          <span title="YuraFedorchuk">
+            <img alt="@YuraFedorchuk" data-user="5493828" height="16" src="https://avatars0.githubusercontent.com/u/5493828?v=3&amp;s=32" width="16" />
+          </span>
+          <code><a href="/nazarmsx/nerukhomist-UPP/commit/e17adeb3c6cc4e41970570f9db08c30ffbad08ff" data-ga-click="News feed, event click, Event click type:PushEvent target:sha">e17adeb</a></code>
+          <div class="message">
+            <blockquote>
+              add comments to EditProfit.java and MessageBox.java
+            </blockquote>
+          </div>
+        </li>
+      </ul>
+    </div>
+</div>
+</div></div>
+          <div class="alert push"><div class="body"><!-- push -->
+<span class="mega-octicon octicon-git-commit"></span>
+
+<div class="time">
+  <time datetime="2015-03-18T07:59:16Z" is="relative-time">Mar 18, 2015</time>
+</div>
+
+<div class="title">
+  <a href="https://github.com/YuraFedorchuk" data-ga-click="News feed, event click, Event click type:PushEvent target:actor">YuraFedorchuk</a> <span>pushed</span> to <a href="/nazarmsx/nerukhomist-UPP/tree/master" data-ga-click="News feed, event click, Event click type:PushEvent target:branch">master</a> at <a href="https://github.com/nazarmsx/nerukhomist-UPP" data-ga-click="News feed, event click, Event click type:PushEvent target:repo">nazarmsx/nerukhomist-UPP</a>
+</div>
+
+<div class="details">
+  <a href="https://github.com/YuraFedorchuk"><img alt="@YuraFedorchuk" class="gravatar" data-user="5493828" height="30" src="https://avatars1.githubusercontent.com/u/5493828?v=3&amp;s=60" width="30" /></a>
+
+    <div class="commits pusher-is-only-committer">
+      <ul>
+        <li>
+          <span title="YuraFedorchuk">
+            <img alt="@YuraFedorchuk" data-user="5493828" height="16" src="https://avatars0.githubusercontent.com/u/5493828?v=3&amp;s=32" width="16" />
+          </span>
+          <code><a href="/nazarmsx/nerukhomist-UPP/commit/fc4132e93e1d463917be2175d8118d3197118297" data-ga-click="News feed, event click, Event click type:PushEvent target:sha">fc4132e</a></code>
+          <div class="message">
+            <blockquote>
+              add insert-data.sql file
+            </blockquote>
+          </div>
+        </li>
+      </ul>
+    </div>
+</div>
+</div></div>
+          <div class="alert push"><div class="body"><!-- push -->
+<span class="mega-octicon octicon-git-commit"></span>
+
+<div class="time">
+  <time datetime="2015-03-17T13:07:57Z" is="relative-time">Mar 17, 2015</time>
+</div>
+
+<div class="title">
+  <a href="https://github.com/YuraFedorchuk" data-ga-click="News feed, event click, Event click type:PushEvent target:actor">YuraFedorchuk</a> <span>pushed</span> to <a href="/nazarmsx/nerukhomist-UPP/tree/master" data-ga-click="News feed, event click, Event click type:PushEvent target:branch">master</a> at <a href="https://github.com/nazarmsx/nerukhomist-UPP" data-ga-click="News feed, event click, Event click type:PushEvent target:repo">nazarmsx/nerukhomist-UPP</a>
+</div>
+
+<div class="details">
+  <a href="https://github.com/YuraFedorchuk"><img alt="@YuraFedorchuk" class="gravatar" data-user="5493828" height="30" src="https://avatars1.githubusercontent.com/u/5493828?v=3&amp;s=60" width="30" /></a>
+
+    <div class="commits pusher-is-only-committer">
+      <ul>
+        <li>
+          <span title="YuraFedorchuk">
+            <img alt="@YuraFedorchuk" data-user="5493828" height="16" src="https://avatars0.githubusercontent.com/u/5493828?v=3&amp;s=32" width="16" />
+          </span>
+          <code><a href="/nazarmsx/nerukhomist-UPP/commit/5ed30e5fcb0d5f2ecd3e9782d04e9a441db94864" data-ga-click="News feed, event click, Event click type:PushEvent target:sha">5ed30e5</a></code>
+          <div class="message">
+            <blockquote>
+              script error fix
+            </blockquote>
+          </div>
+        </li>
+      </ul>
+    </div>
+</div>
+</div></div>
+          <div class="alert push"><div class="body"><!-- push -->
+<span class="mega-octicon octicon-git-commit"></span>
+
+<div class="time">
+  <time datetime="2015-03-13T18:42:05Z" is="relative-time">Mar 13, 2015</time>
+</div>
+
+<div class="title">
+  <a href="https://github.com/YuraFedorchuk" data-ga-click="News feed, event click, Event click type:PushEvent target:actor">YuraFedorchuk</a> <span>pushed</span> to <a href="/nazarmsx/nerukhomist-UPP/tree/master" data-ga-click="News feed, event click, Event click type:PushEvent target:branch">master</a> at <a href="https://github.com/nazarmsx/nerukhomist-UPP" data-ga-click="News feed, event click, Event click type:PushEvent target:repo">nazarmsx/nerukhomist-UPP</a>
+</div>
+
+<div class="details">
+  <a href="https://github.com/YuraFedorchuk"><img alt="@YuraFedorchuk" class="gravatar" data-user="5493828" height="30" src="https://avatars1.githubusercontent.com/u/5493828?v=3&amp;s=60" width="30" /></a>
+
+    <div class="commits pusher-is-only-committer">
+      <ul>
+        <li>
+          <span title="YuraFedorchuk">
+            <img alt="@YuraFedorchuk" data-user="5493828" height="16" src="https://avatars0.githubusercontent.com/u/5493828?v=3&amp;s=32" width="16" />
+          </span>
+          <code><a href="/nazarmsx/nerukhomist-UPP/commit/4e3335acdcfabadef71ad28a400bfc6445b3cfbc" data-ga-click="News feed, event click, Event click type:PushEvent target:sha">4e3335a</a></code>
+          <div class="message">
+            <blockquote>
+              fix sql script errors
+            </blockquote>
+          </div>
+        </li>
+      </ul>
+    </div>
+</div>
+</div></div>
+          <div class="alert push"><div class="body"><!-- push -->
+<span class="mega-octicon octicon-git-commit"></span>
+
+<div class="time">
+  <time datetime="2015-03-13T18:40:33Z" is="relative-time">Mar 13, 2015</time>
+</div>
+
+<div class="title">
+  <a href="https://github.com/YuraFedorchuk" data-ga-click="News feed, event click, Event click type:PushEvent target:actor">YuraFedorchuk</a> <span>pushed</span> to <a href="/nazarmsx/nerukhomist-UPP/tree/master" data-ga-click="News feed, event click, Event click type:PushEvent target:branch">master</a> at <a href="https://github.com/nazarmsx/nerukhomist-UPP" data-ga-click="News feed, event click, Event click type:PushEvent target:repo">nazarmsx/nerukhomist-UPP</a>
+</div>
+
+<div class="details">
+  <a href="https://github.com/YuraFedorchuk"><img alt="@YuraFedorchuk" class="gravatar" data-user="5493828" height="30" src="https://avatars1.githubusercontent.com/u/5493828?v=3&amp;s=60" width="30" /></a>
+
+    <div class="commits pusher-is-only-committer">
+      <ul>
+        <li>
+          <span title="YuraFedorchuk">
+            <img alt="@YuraFedorchuk" data-user="5493828" height="16" src="https://avatars0.githubusercontent.com/u/5493828?v=3&amp;s=32" width="16" />
+          </span>
+          <code><a href="/nazarmsx/nerukhomist-UPP/commit/4162486ba866c4804928bddfd41192e2231b73e6" data-ga-click="News feed, event click, Event click type:PushEvent target:sha">4162486</a></code>
+          <div class="message">
+            <blockquote>
+              update sql script
+            </blockquote>
+          </div>
+        </li>
+      </ul>
+    </div>
+</div>
+</div></div>
+          <div class="alert push"><div class="body"><!-- push -->
+<span class="mega-octicon octicon-git-commit"></span>
+
+<div class="time">
+  <time datetime="2015-03-13T09:56:17Z" is="relative-time">Mar 13, 2015</time>
+</div>
+
+<div class="title">
+  <a href="https://github.com/YuraFedorchuk" data-ga-click="News feed, event click, Event click type:PushEvent target:actor">YuraFedorchuk</a> <span>pushed</span> to <a href="/nazarmsx/nerukhomist-UPP/tree/master" data-ga-click="News feed, event click, Event click type:PushEvent target:branch">master</a> at <a href="https://github.com/nazarmsx/nerukhomist-UPP" data-ga-click="News feed, event click, Event click type:PushEvent target:repo">nazarmsx/nerukhomist-UPP</a>
+</div>
+
+<div class="details">
+  <a href="https://github.com/YuraFedorchuk"><img alt="@YuraFedorchuk" class="gravatar" data-user="5493828" height="30" src="https://avatars1.githubusercontent.com/u/5493828?v=3&amp;s=60" width="30" /></a>
+
+    <div class="commits pusher-is-only-committer">
+      <ul>
+        <li>
+          <span title="YuraFedorchuk">
+            <img alt="@YuraFedorchuk" data-user="5493828" height="16" src="https://avatars0.githubusercontent.com/u/5493828?v=3&amp;s=32" width="16" />
+          </span>
+          <code><a href="/nazarmsx/nerukhomist-UPP/commit/c0a90f3ab079904ffeee879030552814b36d2f71" data-ga-click="News feed, event click, Event click type:PushEvent target:sha">c0a90f3</a></code>
+          <div class="message">
+            <blockquote>
+              Edit Profit class added and MessageBox class.
+            </blockquote>
+          </div>
+        </li>
+      </ul>
+    </div>
+</div>
+</div></div>
+          <div class="alert fork simple"><div class="body"><!-- fork -->
+<div class="simple">
+  <span class="octicon octicon-git-branch"></span>
+
+  <div class="title">
+    <a href="https://github.com/YuraFedorchuk" data-ga-click="News feed, event click, Event click type:ForkEvent target:actor">YuraFedorchuk</a> <span>forked</span> <a href="https://github.com/nazarmsx/nerukhomist-UPP" data-ga-click="News feed, event click, Event click type:ForkEvent target:repo">nazarmsx/nerukhomist-UPP</a> to <a href="https://github.com/YuraFedorchuk/nerukhomist-UPP" data-ga-click="News feed, event click, Event click type:ForkEvent target:parent" title="YuraFedorchuk/nerukhomist-UPP">YuraFedorchuk/nerukhomist-UPP</a>
+  </div>
+
+  <div class="time">
+    <time datetime="2015-03-09T11:31:08Z" is="relative-time">Mar 9, 2015</time>
+  </div>
+</div>
+</div></div>
+          <div class="alert push"><div class="body"><!-- push -->
+<span class="mega-octicon octicon-git-commit"></span>
+
+<div class="time">
+  <time datetime="2015-02-26T15:02:05Z" is="relative-time">Feb 26, 2015</time>
+</div>
+
+<div class="title">
+  <a href="https://github.com/YuraFedorchuk" data-ga-click="News feed, event click, Event click type:PushEvent target:actor">YuraFedorchuk</a> <span>pushed</span> to <a href="/YuraFedorchuk/test/tree/master" data-ga-click="News feed, event click, Event click type:PushEvent target:branch">master</a> at <a href="https://github.com/YuraFedorchuk/test" data-ga-click="News feed, event click, Event click type:PushEvent target:repo">YuraFedorchuk/test</a>
+</div>
+
+<div class="details">
+  <a href="https://github.com/YuraFedorchuk"><img alt="@YuraFedorchuk" class="gravatar" data-user="5493828" height="30" src="https://avatars1.githubusercontent.com/u/5493828?v=3&amp;s=60" width="30" /></a>
+
+    <div class="commits pusher-is-only-committer">
+      <ul>
+        <li>
+          <span title="YuraFedorchuk">
+            <img alt="@YuraFedorchuk" data-user="5493828" height="16" src="https://avatars0.githubusercontent.com/u/5493828?v=3&amp;s=32" width="16" />
+          </span>
+          <code><a href="/YuraFedorchuk/test/commit/5736d73b5545074fd790815124caaa663c9cbe99" data-ga-click="News feed, event click, Event click type:PushEvent target:sha">5736d73</a></code>
+          <div class="message">
+            <blockquote>
+              update readme
+            </blockquote>
+          </div>
+        </li>
+      </ul>
+    </div>
+</div>
+</div></div>
+          <div class="alert create simple"><div class="body"><!-- create -->
+<div class="simple">
+  <span class="octicon octicon-git-branch"></span>
+
+  <div class="title">
+    <a href="https://github.com/YuraFedorchuk" data-ga-click="News feed, event click, Event click type:CreateEvent target:actor">YuraFedorchuk</a> <span>created</span> branch <a href="/YuraFedorchuk/test/tree/master" class="css-truncate css-truncate-target branch-name" data-ga-click="News feed, event click, Event click type:CreateEvent target: branch link" title="master">master</a> at <a href="https://github.com/YuraFedorchuk/test" data-ga-click="News feed, event click, Event click type:CreateEvent target:repo">YuraFedorchuk/test</a>
+  </div>
+
+  <div class="time">
+    <time datetime="2015-02-26T15:01:15Z" is="relative-time">Feb 26, 2015</time>
+  </div>
+</div>
+</div></div>
+          <div class="alert create simple"><div class="body"><!-- create -->
+<div class="simple">
+  <span class="octicon octicon-repo"></span>
+
+  <div class="title">
+    <a href="https://github.com/YuraFedorchuk" data-ga-click="News feed, event click, Event click type:CreateEvent target:actor">YuraFedorchuk</a> <span>created</span> repository <a href="/YuraFedorchuk/test" data-ga-click="News feed, event click, Event click type:CreateEvent target:repository" title="YuraFedorchuk/test">YuraFedorchuk/test</a>
+  </div>
+
+  <div class="time">
+    <time datetime="2015-02-26T14:58:51Z" is="relative-time">Feb 26, 2015</time>
+  </div>
+</div>
+</div></div>
+      </div>
+
+</div>
+
+      </div>
+    </div>
+
+  </div>
+</div>
+
+          </div>
+          <div class="modal-backdrop"></div>
+        </div>
+    </div><!-- /.wrapper -->
+
+      <div class="container">
+  <div class="site-footer" role="contentinfo">
+    <ul class="site-footer-links right">
+        <li><a href="https://status.github.com/" data-ga-click="Footer, go to status, text:status">Status</a></li>
+      <li><a href="https://developer.github.com" data-ga-click="Footer, go to api, text:api">API</a></li>
+      <li><a href="https://training.github.com" data-ga-click="Footer, go to training, text:training">Training</a></li>
+      <li><a href="https://shop.github.com" data-ga-click="Footer, go to shop, text:shop">Shop</a></li>
+        <li><a href="https://github.com/blog" data-ga-click="Footer, go to blog, text:blog">Blog</a></li>
+        <li><a href="https://github.com/about" data-ga-click="Footer, go to about, text:about">About</a></li>
+
+    </ul>
+
+    <a href="https://github.com" aria-label="Homepage">
+      <span class="mega-octicon octicon-mark-github" title="GitHub"></span>
+</a>
+    <ul class="site-footer-links">
+      <li>&copy; 2015 <span title="0.02824s from github-fe128-cp1-prd.iad.github.net">GitHub</span>, Inc.</li>
+        <li><a href="https://github.com/site/terms" data-ga-click="Footer, go to terms, text:terms">Terms</a></li>
+        <li><a href="https://github.com/site/privacy" data-ga-click="Footer, go to privacy, text:privacy">Privacy</a></li>
+        <li><a href="https://github.com/security" data-ga-click="Footer, go to security, text:security">Security</a></li>
+        <li><a href="https://github.com/contact" data-ga-click="Footer, go to contact, text:contact">Contact</a></li>
+    </ul>
+  </div>
+</div>
+
+
+    <div class="fullscreen-overlay js-fullscreen-overlay" id="fullscreen_overlay">
+  <div class="fullscreen-container js-suggester-container">
+    <div class="textarea-wrap">
+      <textarea name="fullscreen-contents" id="fullscreen-contents" class="fullscreen-contents js-fullscreen-contents" placeholder=""></textarea>
+      <div class="suggester-container">
+        <div class="suggester fullscreen-suggester js-suggester js-navigation-container"></div>
+      </div>
+    </div>
+  </div>
+  <div class="fullscreen-sidebar">
+    <a href="#" class="exit-fullscreen js-exit-fullscreen tooltipped tooltipped-w" aria-label="Exit Zen Mode">
+      <span class="mega-octicon octicon-screen-normal"></span>
+    </a>
+    <a href="#" class="theme-switcher js-theme-switcher tooltipped tooltipped-w"
+      aria-label="Switch themes">
+      <span class="octicon octicon-color-mode"></span>
+    </a>
+  </div>
+</div>
+
+
+
+    
+    
+
+    <div id="ajax-error-message" class="flash flash-error">
+      <span class="octicon octicon-alert"></span>
+      <a href="#" class="octicon octicon-x flash-close js-ajax-error-dismiss" aria-label="Dismiss error"></a>
+      Something went wrong with that request. Please try again.
+    </div>
+
+
+      <script crossorigin="anonymous" src="https://assets-cdn.github.com/assets/frameworks-2c8ae50712a47d2b83d740cb875d55cdbbb3fdbccf303951cc6b7e63731e0c38.js"></script>
+      <script async="async" crossorigin="anonymous" src="https://assets-cdn.github.com/assets/github-a8298930bc879205b7c77472e37c8bbc58da94d4b7c970cd899dfe0b65289591.js"></script>
+      
+      
+
+  </body>
+</html>

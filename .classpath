@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/extra_libs/jsoup-1.8.1.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/extra_libs/lucene-5.0.0/lucene-analyzers-common-5.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/extra_libs/lucene-5.0.0/lucene-core-5.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/extra_libs/lucene-5.0.0/lucene-queryparser-5.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/extra_libs/lucene-5.0.0/russian-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/extra_libs/lucene-5.0.0/morph-1.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

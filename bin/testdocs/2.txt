@@ -1,0 +1,592 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>Юрий Федорчук profiles - Ukraine | LinkedIn</title>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
+<meta name="globalTrackingUrl" content="//www.linkedin.com/mob/tracking">
+<meta name="globalTrackingAppName" content="pprofile">
+<meta name="globalTrackingAppId" content="webTracking">
+<script type="text/javascript" src="http://s.c.lnkd.licdn.com/scds/concat/common/js?h=7vr4nuab43rzvy2pgq7yvvxjk-4yhpyv3p9r574wkkbe8kcd2ou"></script>
+<link href="http://s.c.lnkd.licdn.com/scds/common/u/images/logos/favicons/v1/favicon.ico" rel="shortcut icon" type="image/ico"/>
+<script type="text/javascript" src="https://www.linkedin.com/uas/authping?apps=seo&fname=%D0%AE%D1%80%D0%B8%D0%B9&lname=%D0%A4%D0%B5%D0%B4%D0%BE%D1%80%D1%87%D1%83%D0%BA&regionid=ua%3A0"></script>
+<meta name="description" content="View the profiles of professionals named Юрий Федорчук on LinkedIn. There are 10 professionals named Юрий Федорчук, who use LinkedIn to exchange information, ideas, and opportunities."/>
+<meta name="MobileOptimized" content="320"/>
+<meta name="HandheldFriendly" content="True">
+<meta name="format-detection" content="telephone=no, email=no">
+<meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<link href="http://ua.linkedin.com/pub/dir/%D0%AE%D1%80%D0%B8%D0%B9/%D0%A4%D0%B5%D0%B4%D0%BE%D1%80%D1%87%D1%83%D0%BA" rel="canonical"/>
+<link rel="stylesheet" type="text/css" href="http://s.c.lnkd.licdn.com/scds/concat/common/css?h=4m4cdup5tny0n05dh8ijs7ghi"/>
+<script type="text/javascript" src="http://s.c.lnkd.licdn.com/scds/concat/common/js?h=dfoaudjrk6rbf82f45bz5crwi-e9rsfv7b5gx0bk0tln31dx3sq-b88qxy99s08xoes3weacd08uc-elnsqtvqejtj9ta0y5806t48y-ac8pg92mfnb2j836ntpvg1fsi-9wkskbn6s2q25rkbrnuwlqric-czstax4e6y68hymdvqxpwe5so-eq875keqggun9hoxzfhbanjes"></script>
+<script type="text/javascript">var _gaq=_gaq||[];_gaq.push(['_setAccount','UA-3242811-1']);_gaq.push(['_setDomainName','.linkedin.com']);_gaq.push(['_setAllowLinker',true]);_gaq.push(['_trackPageview','same_name_2']);(function(){var ga=document.createElement('script');ga.type='text/javascript';ga.async=true;ga.src=('https:'==document.location.protocol?'https://ssl':'http://www')+'.google-analytics.com/ga.js';var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(ga,s);})();</script>
+</head>
+<body class="en public-profile guest v2" dir="ltr">
+<div id="header" class="guest">
+<div class="wrapper">
+<div id="nav-primary">
+<div class="wrapper">
+<div class="logo" id="logo-linkedin">
+<a href="/home?trk=ndir_logo_header">
+<img src="http://s.c.lnkd.licdn.com/scds/common/u/images/logos/linkedin/logo_linkedin_flat_white_93x21.png" width="93" height="21" alt="LinkedIn"/>
+</a>
+</div>
+<ul class="nav">
+<li id="mobile-search-bar" style="display: none"><input type="text"></li>
+<li id="nav-primary-join" class="tab"><a href="https://www.linkedin.com/reg/join?trk=ndir_join_header" rel="nofollow"><span>Join now</span></a></li>
+<li id="nav-primary-auth" class="tab"><a href="https://www.linkedin.com/uas/login" rel="nofollow"><span>Sign In</span></a></li>
+<li id="nav-primary-what" class="tab"><a href="/static?key=what_is_linkedin&trk=ndir_what_header"><span>What is LinkedIn?</span></a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div id="body">
+<div class="wrapper">
+<div id="main">
+<div id="content" class="">
+<div class="content-header">
+<h1>
+Юрий Федорчук profiles
+</h1>
+<form id="global-search" class="searchForm" action="/pub/dir/">
+<fieldset>
+<legend><span>Name Search</span></legend>
+<ol>
+<li>
+<label for="firstname" class="ghost">First name</label>
+<input type="text" name="first" id="firstname" value="Юрий"/>
+</li>
+<li>
+<label for="lastname" class="ghost">Last name</label>
+<input type="text" name="last" id="lastname" value="Федорчук"/>
+</li>
+</ol>
+<input type="submit" class="search-go" value="Search" name="search"/>
+<button type="button" class="search-cancel" name="cancel">Cancel</button>
+</fieldset>
+<input type="hidden" name="searchType" value="fps"/>
+</form>
+</div>
+<div class="content-wrapper">
+<a href="http://ua.linkedin.com/pub/dir/%D0%AE%D1%80%D0%B8%D0%B9/%D0%A4%D0%B5%D0%B4%D0%BE%D1%80%D1%87%D1%83%D0%BA/ua-0-Ukraine" class="region-filter">Юрий Федорчук in Ukraine</a>
+<ul class="result-summary same-name-dir">
+<li>
+10 of 10 profiles
+</li>
+</ul>
+<ol id="result-set" class="photos">
+<li class="vcard">
+<ul class="actions">
+<li class="view-profile">
+<button class="btn-primary" data-href="https://www.linkedin.com/reg/join-pprofile?_ed=0_br9INl3-5oDlaE1whhCb1qDBtnIiOJxUrOjmtmwtOdQHofbVm2Y-mf9zhkbvzZaNdq97WSQxpWiF-B2G2owKBzO3DkPppbGJMt4wR1v_1CW&amp;trk=ndir_viewmore"><span><strong>View Full Profile</strong></span>
+</button>
+<li>
+</ul>
+<h2>
+<strong>
+<a href="https://ru.linkedin.com/pub/%D1%8E%D1%80%D0%B8%D0%B9-%D1%84%D0%B5%D0%B4%D0%BE%D1%80%D1%87%D1%83%D0%BA/45/57b/92b" title="&#x42e;&#x440;&#x438;&#x439; &#x424;&#x435;&#x434;&#x43e;&#x440;&#x447;&#x443;&#x43a;">
+<span class="given-name">&#x42e;&#x440;&#x438;&#x439;</span> <span class="family-name">&#x424;&#x435;&#x434;&#x43e;&#x440;&#x447;&#x443;&#x43a;</span></a>
+</strong>
+</h2>
+<dl class="vcard-basic">
+<dt>Title</dt>
+<dd class="title">профессор ТПУ в American Center of Krasnodar</dd>
+<dt>Demographic info</dt>
+<dd>
+<span class="location">
+Tomsk Region, Russian Federation
+</span>
+<span class="split"> | </span>
+<span class="industry">
+Education Management
+</span>
+</dd>
+</dl>
+<dl class="vcard-expanded">
+<dt class="current">Current</dt>
+<dd class="current-content">
+<span>
+&#x43f;&#x440;&#x43e;&#x444;&#x435;&#x441;&#x441;&#x43e;&#x440; &#x422;&#x41f;&#x423; &#x432; &#x43a;&#x43e;&#x43c;&#x43f;&#x430;&#x43d;&#x438;&#x438; American Center of Krasnodar
+</span>
+</dd>
+<dt class="past">Past</dt>
+<dd class="past-content">
+<span>
+&#x43f;&#x440;&#x43e;&#x444;&#x435;&#x441;&#x441;&#x43e;&#x440; &#x432; &#x43a;&#x43e;&#x43c;&#x43f;&#x430;&#x43d;&#x438;&#x438; &#x422;&#x43e;&#x43c;&#x441;&#x43a;&#x438;&#x439; &#x43f;&#x43e;&#x43b;&#x438;&#x442;&#x435;&#x445;&#x43d;&#x438;&#x447;&#x435;&#x441;&#x43a;&#x438;&#x439; &#x443;&#x43d;&#x438;&#x432;&#x435;&#x440;&#x441;&#x438;&#x442;&#x435;&#x442;
+</span>
+</dd>
+</dl>
+<a href="https://ru.linkedin.com/pub/%D1%8E%D1%80%D0%B8%D0%B9-%D1%84%D0%B5%D0%B4%D0%BE%D1%80%D1%87%D1%83%D0%BA/45/57b/92b" class="profile-photo" title="&#x42e;&#x440;&#x438;&#x439; &#x424;&#x435;&#x434;&#x43e;&#x440;&#x447;&#x443;&#x43a;">
+<img src="http://s.c.lnkd.licdn.com/scds/common/u/images/themes/katy/ghosts/person/ghost_person_100x100_v1.png" width="60" height="60" alt="&#x42e;&#x440;&#x438;&#x439; &#x424;&#x435;&#x434;&#x43e;&#x440;&#x447;&#x443;&#x43a;"/>
+</a>
+</li>
+<li class="vcard">
+<ul class="actions">
+<li class="view-profile">
+<button class="btn-primary" data-href="https://www.linkedin.com/reg/join-pprofile?_ed=0_br9INl3-5oDlaE1whhCb1qDBtnIiOJxUrOjmtmwtOdQHofbVm2Y-mf9zhkbvzZaN0qlVzLInlaAI-jKYc2U4s4tkwMDjjih-RIn6nqdd-cy&amp;trk=ndir_viewmore"><span><strong>View Full Profile</strong></span>
+</button>
+<li>
+</ul>
+<h2>
+<strong>
+<a href="https://ua.linkedin.com/pub/%D1%8E%D1%80%D0%B8%D0%B9-%D1%84%D0%B5%D0%B4%D0%BE%D1%80%D1%87%D1%83%D0%BA/65/750/516" title="&#x42e;&#x440;&#x438;&#x439; &#x424;&#x435;&#x434;&#x43e;&#x440;&#x447;&#x443;&#x43a;">
+<span class="given-name">&#x42e;&#x440;&#x438;&#x439;</span> <span class="family-name">&#x424;&#x435;&#x434;&#x43e;&#x440;&#x447;&#x443;&#x43a;</span></a>
+</strong>
+</h2>
+<dl class="vcard-basic">
+<dt>Title</dt>
+<dd class="title">журналист (Одесские известия)</dd>
+<dt>Demographic info</dt>
+<dd>
+<span class="location">
+Ukraine
+</span>
+<span class="split"> | </span>
+<span class="industry">
+Media Production
+</span>
+</dd>
+</dl>
+<dl class="vcard-expanded">
+<dt class="current">Current</dt>
+<dd class="current-content">
+<span>
+&#x436;&#x443;&#x440;&#x43d;&#x430;&#x43b;&#x438;&#x441;&#x442; &#x432; &#x43a;&#x43e;&#x43c;&#x43f;&#x430;&#x43d;&#x438;&#x438; &#x41e;&#x434;&#x435;&#x441;&#x441;&#x43a;&#x438;&#x435; &#x438;&#x437;&#x432;&#x435;&#x441;&#x442;&#x438;&#x44f;
+</span>
+</dd>
+<dt class="education">Education</dt>
+<dd class="education-content">
+<span>
+&#x418;&#x437;&#x43c;&#x430;&#x438;&#x43b;&#x44c;&#x441;&#x43a;&#x438;&#x439; &#x43f;&#x435;&#x434;&#x438;&#x43d;&#x441;&#x442;&#x438;&#x442;&#x443;&#x442;
+</span>
+</dd>
+</dl>
+<a href="https://ua.linkedin.com/pub/%D1%8E%D1%80%D0%B8%D0%B9-%D1%84%D0%B5%D0%B4%D0%BE%D1%80%D1%87%D1%83%D0%BA/65/750/516" class="profile-photo" title="&#x42e;&#x440;&#x438;&#x439; &#x424;&#x435;&#x434;&#x43e;&#x440;&#x447;&#x443;&#x43a;">
+<img src="https://media.licdn.com/mpr/mpr/shrink_100_100/p/6/000/202/3e7/261e8b4.jpg" class="photo" height="60" width="60" alt="&#x42e;&#x440;&#x438;&#x439; &#x424;&#x435;&#x434;&#x43e;&#x440;&#x447;&#x443;&#x43a;"/>
+</a>
+</li>
+<li class="vcard">
+<ul class="actions">
+<li class="view-profile">
+<button class="btn-primary" data-href="https://www.linkedin.com/reg/join-pprofile?_ed=0_br9INl3-5oDlaE1whhCb1qDBtnIiOJxUrOjmtmwtOdQHofbVm2Y-mf9zhkbvzZaNcqQb5z3oFPQvN6dHcbf5PtzPIbY6JQBEgGksUjhfjgB&amp;trk=ndir_viewmore"><span><strong>View Full Profile</strong></span>
+</button>
+<li>
+</ul>
+<h2>
+<strong>
+<a href="https://ua.linkedin.com/pub/%D1%8E%D1%80%D0%B8%D0%B9-%D1%84%D0%B5%D0%B4%D0%BE%D1%80%D1%87%D1%83%D0%BA/87/900/110" title="&#x42e;&#x440;&#x438;&#x439; &#x424;&#x435;&#x434;&#x43e;&#x440;&#x447;&#x443;&#x43a;">
+<span class="given-name">&#x42e;&#x440;&#x438;&#x439;</span> <span class="family-name">&#x424;&#x435;&#x434;&#x43e;&#x440;&#x447;&#x443;&#x43a;</span></a>
+</strong>
+</h2>
+<dl class="vcard-basic">
+<dt>Title</dt>
+<dd class="title">Фрилансер - веб-программист, Интернет-предприниматель</dd>
+<dt>Demographic info</dt>
+<dd>
+<span class="location">
+Ukraine
+</span>
+<span class="split"> | </span>
+<span class="industry">
+Computer Software
+</span>
+</dd>
+</dl>
+<dl class="vcard-expanded">
+<dt class="current">Current</dt>
+<dd class="current-content">
+<span>
+&#x410;&#x434;&#x43c;&#x438;&#x43d;&#x438;&#x441;&#x442;&#x440;&#x430;&#x442;&#x43e;&#x440;, &#x421;&#x43e;&#x437;&#x434;&#x430;&#x442;&#x435;&#x43b;&#x44c; &#x432; &#x43a;&#x43e;&#x43c;&#x43f;&#x430;&#x43d;&#x438;&#x438; &#x41e;&#x431;&#x43e;&#x437;&#x440;&#x435;&#x432;&#x430;&#x442;&#x435;&#x43b;&#x44c;&#x441;&#x43a;&#x438;&#x439; &#x431;&#x438;&#x437;&#x43d;&#x435;&#x441;-&#x43f;&#x43e;&#x440;&#x442;&#x430;&#x43b; EasyBusiness, &#x424;&#x440;&#x438;&#x43b;&#x430;&#x43d;&#x441;&#x435;&#x440; &#x432; &#x43a;&#x43e;&#x43c;&#x43f;&#x430;&#x43d;&#x438;&#x438; weblancer.net
+</span>
+</dd>
+<dt class="education">Education</dt>
+<dd class="education-content">
+<span>
+&#x41a;&#x438;&#x435;&#x432;&#x43e;-&#x41c;&#x43e;&#x433;&#x438;&#x43b;&#x44f;&#x43d;&#x441;&#x43a;&#x430;&#x44f; &#x430;&#x43a;&#x430;&#x434;&#x435;&#x43c;&#x438;&#x44f;
+</span>
+</dd>
+<dt class="summary">Summary</dt>
+<dd class="summary-content">
+<span>
+&#x412;&#x435;&#x431;-&#x43f;&#x440;&#x43e;&#x433;&#x440;&#x430;&#x43c;&#x43c;&#x438;&#x441;&#x442;, &#x418;&#x43d;&#x442;&#x435;&#x440;&#x43d;&#x435;&#x442;-&#x43f;&#x440;&#x435;&#x434;&#x43f;&#x440;&#x438;&#x43d;&#x438;&#x43c;&#x430;&#x442;&#x435;&#x43b;&#x44c;
+&#x2014; Skype: fedorchuk7yura
+&#x2014; E-mail: imafos_t@ukr.net
+&#x2014; &#x412;&#x41a;&#x43e;&#x43d;&#x442;&#x430;&#x43a;&#x442;&#x435; (Vkontakte): http://vk.com/fedorchukyura&#x25bc; &#x25bc;
+&#x2014; &#x424;&#x435;&#x439;&#x441;&#x431;&#x443;&#x43a; (Facebook): https://www.facebook.com/yuri.fedorchuk.7
+&#x2014; &#x422;&#x432;&#x438;&#x442;&#x442;&#x435;&#x440; (Twitter): https://twitter.com/yurafedorchuk
+&#x2014; &#x41c;&#x43e;&#x431;&#x438;&#x43b;&#x44c;&#x43d;&#x44b;&#x439; &#x442;&#x435;&#x43b;&#x435;&#x444;&#x43e;&#x43d; (Mobile phone number): +380668252498
+</span>
+</dd>
+</dl>
+<a href="https://ua.linkedin.com/pub/%D1%8E%D1%80%D0%B8%D0%B9-%D1%84%D0%B5%D0%B4%D0%BE%D1%80%D1%87%D1%83%D0%BA/87/900/110" class="profile-photo" title="&#x42e;&#x440;&#x438;&#x439; &#x424;&#x435;&#x434;&#x43e;&#x440;&#x447;&#x443;&#x43a;">
+<img src="https://media.licdn.com/mpr/mpr/shrink_100_100/AAEAAQAAAAAAAABQAAAAJDc0YWRjODI4LWIwYzgtNDEwMy1hYjJjLTYyY2UyMjhlYmE4Ng.jpg" class="photo" height="60" width="60" alt="&#x42e;&#x440;&#x438;&#x439; &#x424;&#x435;&#x434;&#x43e;&#x440;&#x447;&#x443;&#x43a;"/>
+</a>
+</li>
+<li class="vcard">
+<ul class="actions">
+<li class="view-profile">
+<button class="btn-primary" data-href="https://www.linkedin.com/reg/join-pprofile?_ed=0_br9INl3-5oDlaE1whhCb1qDBtnIiOJxUrOjmtmwtOdQHofbVm2Y-mf9zhkbvzZaNdIGl51k8xxrDXbj0VhCcM8oiV8Jpm_L3a-fe0ppUfki&amp;trk=ndir_viewmore"><span><strong>View Full Profile</strong></span>
+</button>
+<li>
+</ul>
+<h2>
+<strong>
+<a href="https://ru.linkedin.com/pub/%D1%8E%D1%80%D0%B8%D0%B9-%D1%84%D0%B5%D0%B4%D0%BE%D1%80%D1%87%D1%83%D0%BA/7b/996/b36" title="&#x42e;&#x440;&#x438;&#x439; &#x424;&#x435;&#x434;&#x43e;&#x440;&#x447;&#x443;&#x43a;">
+<span class="given-name">&#x42e;&#x440;&#x438;&#x439;</span> <span class="family-name">&#x424;&#x435;&#x434;&#x43e;&#x440;&#x447;&#x443;&#x43a;</span></a>
+</strong>
+</h2>
+<dl class="vcard-basic">
+<dt>Title</dt>
+<dd class="title">Директор (ТД Изолайн)</dd>
+<dt>Demographic info</dt>
+<dd>
+<span class="location">
+Sverdlovsk Region, Russian Federation
+</span>
+<span class="split"> | </span>
+<span class="industry">
+Building Materials
+</span>
+</dd>
+</dl>
+<dl class="vcard-expanded">
+<dt class="current">Current</dt>
+<dd class="current-content">
+<span>
+&#x414;&#x438;&#x440;&#x435;&#x43a;&#x442;&#x43e;&#x440; &#x432; &#x43a;&#x43e;&#x43c;&#x43f;&#x430;&#x43d;&#x438;&#x438; &#x422;&#x414; &#x418;&#x437;&#x43e;&#x43b;&#x430;&#x439;&#x43d;, &#x414;&#x438;&#x440;&#x435;&#x43a;&#x442;&#x43e;&#x440; &#x432; &#x43a;&#x43e;&#x43c;&#x43f;&#x430;&#x43d;&#x438;&#x438; &#x422;&#x414; &#x418;&#x437;&#x43e;&#x43b;&#x430;&#x439;&#x43d;
+</span>
+</dd>
+</dl>
+<a href="https://ru.linkedin.com/pub/%D1%8E%D1%80%D0%B8%D0%B9-%D1%84%D0%B5%D0%B4%D0%BE%D1%80%D1%87%D1%83%D0%BA/7b/996/b36" class="profile-photo" title="&#x42e;&#x440;&#x438;&#x439; &#x424;&#x435;&#x434;&#x43e;&#x440;&#x447;&#x443;&#x43a;">
+<img src="http://s.c.lnkd.licdn.com/scds/common/u/images/themes/katy/ghosts/person/ghost_person_100x100_v1.png" width="60" height="60" alt="&#x42e;&#x440;&#x438;&#x439; &#x424;&#x435;&#x434;&#x43e;&#x440;&#x447;&#x443;&#x43a;"/>
+</a>
+</li>
+<li class="vcard">
+<ul class="actions">
+<li class="view-profile">
+<button class="btn-primary" data-href="https://www.linkedin.com/reg/join-pprofile?_ed=0_br9INl3-5oDlaE1whhCb1qDBtnIiOJxUrOjmtmwtOdQHofbVm2Y-mf9zhkbvzZaN5uykerkaSgYcCfUfuIZTDQFGPXJjksGnIIywmrlI7Q4&amp;trk=ndir_viewmore"><span><strong>View Full Profile</strong></span>
+</button>
+<li>
+</ul>
+<h2>
+<strong>
+<a href="https://ua.linkedin.com/pub/%D1%8E%D1%80%D0%B8%D0%B9-%D1%84%D0%B5%D0%B4%D0%BE%D1%80%D1%87%D1%83%D0%BA/82/145/802" title="&#x42e;&#x440;&#x438;&#x439; &#x424;&#x435;&#x434;&#x43e;&#x440;&#x447;&#x443;&#x43a;">
+<span class="given-name">&#x42e;&#x440;&#x438;&#x439;</span> <span class="family-name">&#x424;&#x435;&#x434;&#x43e;&#x440;&#x447;&#x443;&#x43a;</span></a>
+</strong>
+</h2>
+<dl class="vcard-basic">
+<dt>Title</dt>
+<dd class="title">--</dd>
+<dt>Demographic info</dt>
+<dd>
+<span class="location">
+Ukraine
+</span>
+<span class="split"> | </span>
+<span class="industry">
+Media Production
+</span>
+</dd>
+</dl>
+<dl class="vcard-expanded">
+<dt class="current">Current</dt>
+<dd class="current-content">
+<span>
+&#x417;&#x430;&#x432;&#x43e;&#x442;&#x434;&#x435;&#x43b;&#x43e;&#x43c; &#x432; &#x43a;&#x43e;&#x43c;&#x43f;&#x430;&#x43d;&#x438;&#x438; &#x41e;&#x434;&#x435;&#x441;&#x441;&#x43a;&#x438;&#x435; &#x438;&#x437;&#x432;&#x435;&#x441;&#x442;&#x438;&#x44f;
+</span>
+</dd>
+<dt class="education">Education</dt>
+<dd class="education-content">
+<span>
+&#x418;&#x437;&#x43c;&#x430;&#x438;&#x43b;&#x44c;&#x441;&#x43a;&#x438;&#x439; &#x43f;&#x435;&#x434;&#x438;&#x43d;&#x441;&#x442;&#x438;&#x442;&#x443;&#x442;
+</span>
+</dd>
+</dl>
+<a href="https://ua.linkedin.com/pub/%D1%8E%D1%80%D0%B8%D0%B9-%D1%84%D0%B5%D0%B4%D0%BE%D1%80%D1%87%D1%83%D0%BA/82/145/802" class="profile-photo" title="&#x42e;&#x440;&#x438;&#x439; &#x424;&#x435;&#x434;&#x43e;&#x440;&#x447;&#x443;&#x43a;">
+<img src="https://media.licdn.com/mpr/mpr/shrink_100_100/p/5/005/01a/0e8/10c16d3.jpg" class="photo" height="60" width="60" alt="&#x42e;&#x440;&#x438;&#x439; &#x424;&#x435;&#x434;&#x43e;&#x440;&#x447;&#x443;&#x43a;"/>
+</a>
+</li>
+<li class="vcard">
+<ul class="actions">
+<li class="view-profile">
+<button class="btn-primary" data-href="https://www.linkedin.com/reg/join-pprofile?_ed=0_br9INl3-5oDlaE1whhCb1qDBtnIiOJxUrOjmtmwtOdQHofbVm2Y-mf9zhkbvzZaNcr7CZbqSAraZTkISynPiKfYwFTcnohwkTkTyYM9rVWl&amp;trk=ndir_viewmore"><span><strong>View Full Profile</strong></span>
+</button>
+<li>
+</ul>
+<h2>
+<strong>
+<a href="https://ua.linkedin.com/pub/%D1%8E%D1%80%D0%B8%D0%B9-%D1%84%D0%B5%D0%B4%D0%BE%D1%80%D1%87%D1%83%D0%BA/83/613/a1" title="&#x42e;&#x440;&#x438;&#x439; &#x424;&#x435;&#x434;&#x43e;&#x440;&#x447;&#x443;&#x43a;">
+<span class="given-name">&#x42e;&#x440;&#x438;&#x439;</span> <span class="family-name">&#x424;&#x435;&#x434;&#x43e;&#x440;&#x447;&#x443;&#x43a;</span></a>
+</strong>
+</h2>
+<dl class="vcard-basic">
+<dt>Title</dt>
+<dd class="title">--</dd>
+<dt>Demographic info</dt>
+<dd>
+<span class="location">
+Ukraine
+</span>
+</dd>
+</dl>
+<dl class="vcard-expanded">
+</dl>
+<a href="https://ua.linkedin.com/pub/%D1%8E%D1%80%D0%B8%D0%B9-%D1%84%D0%B5%D0%B4%D0%BE%D1%80%D1%87%D1%83%D0%BA/83/613/a1" class="profile-photo" title="&#x42e;&#x440;&#x438;&#x439; &#x424;&#x435;&#x434;&#x43e;&#x440;&#x447;&#x443;&#x43a;">
+<img src="http://s.c.lnkd.licdn.com/scds/common/u/images/themes/katy/ghosts/person/ghost_person_100x100_v1.png" width="60" height="60" alt="&#x42e;&#x440;&#x438;&#x439; &#x424;&#x435;&#x434;&#x43e;&#x440;&#x447;&#x443;&#x43a;"/>
+</a>
+</li>
+<li class="vcard">
+<ul class="actions">
+<li class="view-profile">
+<button class="btn-primary" data-href="https://www.linkedin.com/reg/join-pprofile?_ed=0_6z-TvuXKildI8zdGHbGhxKDBtnIiOJxUrOjmtmwtOdQHofbVm2Y-mf9zhkbvzZaNaxecTdAyn20XZrYulvM5hTizbE98yY3rW_rrEnFb6g9&amp;trk=ndir_viewmore"><span><strong>View Full Profile</strong></span>
+</button>
+<li>
+</ul>
+<h2>
+<strong>
+<a href="https://ua.linkedin.com/pub/%D1%8E%D1%80%D0%B8%D0%B9-%D1%84%D0%B5%D0%B4%D0%BE%D1%80%D1%87%D1%83%D0%BA/89/b40/635" title="&#x42e;&#x440;&#x438;&#x439; &#x424;&#x435;&#x434;&#x43e;&#x440;&#x447;&#x443;&#x43a;">
+<span class="given-name">&#x42e;&#x440;&#x438;&#x439;</span> <span class="family-name">&#x424;&#x435;&#x434;&#x43e;&#x440;&#x447;&#x443;&#x43a;</span></a>
+</strong>
+</h2>
+<dl class="vcard-basic">
+<dt>Title</dt>
+<dd class="title">--</dd>
+<dt>Demographic info</dt>
+<dd>
+<span class="location">
+Ukraine
+</span>
+</dd>
+</dl>
+<dl class="vcard-expanded">
+</dl>
+<a href="https://ua.linkedin.com/pub/%D1%8E%D1%80%D0%B8%D0%B9-%D1%84%D0%B5%D0%B4%D0%BE%D1%80%D1%87%D1%83%D0%BA/89/b40/635" class="profile-photo" title="&#x42e;&#x440;&#x438;&#x439; &#x424;&#x435;&#x434;&#x43e;&#x440;&#x447;&#x443;&#x43a;">
+<img src="http://s.c.lnkd.licdn.com/scds/common/u/images/themes/katy/ghosts/person/ghost_person_100x100_v1.png" width="60" height="60" alt="&#x42e;&#x440;&#x438;&#x439; &#x424;&#x435;&#x434;&#x43e;&#x440;&#x447;&#x443;&#x43a;"/>
+</a>
+</li>
+<li class="vcard">
+<ul class="actions">
+<li class="view-profile">
+<button class="btn-primary" data-href="https://www.linkedin.com/reg/join-pprofile?_ed=0_br9INl3-5oDlaE1whhCb1qDBtnIiOJxUrOjmtmwtOdQHofbVm2Y-mf9zhkbvzZaNf4LCfBIKHLDBvIP6GCsWw7IULKfOyboZCMr-kjyV2Dv&amp;trk=ndir_viewmore"><span><strong>View Full Profile</strong></span>
+</button>
+<li>
+</ul>
+<h2>
+<strong>
+<a href="https://ua.linkedin.com/pub/%D1%8E%D1%80%D0%B8%D0%B9-%D1%84%D0%B5%D0%B4%D0%BE%D1%80%D1%87%D1%83%D0%BA/94/2b7/330" title="&#x42e;&#x440;&#x438;&#x439; &#x424;&#x435;&#x434;&#x43e;&#x440;&#x447;&#x443;&#x43a;">
+<span class="given-name">&#x42e;&#x440;&#x438;&#x439;</span> <span class="family-name">&#x424;&#x435;&#x434;&#x43e;&#x440;&#x447;&#x443;&#x43a;</span></a>
+</strong>
+</h2>
+<dl class="vcard-basic">
+<dt>Title</dt>
+<dd class="title">директор по развитию бизнеса - Фармастарт</dd>
+<dt>Demographic info</dt>
+<dd>
+<span class="location">
+Ukraine
+</span>
+<span class="split"> | </span>
+<span class="industry">
+Pharmaceuticals
+</span>
+</dd>
+</dl>
+<dl class="vcard-expanded">
+<dt class="current">Current</dt>
+<dd class="current-content">
+<span>
+&#x434;&#x438;&#x440;&#x435;&#x43a;&#x442;&#x43e;&#x440; &#x43f;&#x43e; &#x440;&#x430;&#x437;&#x432;&#x438;&#x442;&#x438;&#x44e; &#x431;&#x438;&#x437;&#x43d;&#x435;&#x441;&#x430; &#x432; &#x43a;&#x43e;&#x43c;&#x43f;&#x430;&#x43d;&#x438;&#x438; &#x424;&#x430;&#x440;&#x43c;&#x430;&#x441;&#x442;&#x430;&#x440;&#x442;
+</span>
+</dd>
+</dl>
+<a href="https://ua.linkedin.com/pub/%D1%8E%D1%80%D0%B8%D0%B9-%D1%84%D0%B5%D0%B4%D0%BE%D1%80%D1%87%D1%83%D0%BA/94/2b7/330" class="profile-photo" title="&#x42e;&#x440;&#x438;&#x439; &#x424;&#x435;&#x434;&#x43e;&#x440;&#x447;&#x443;&#x43a;">
+<img src="http://s.c.lnkd.licdn.com/scds/common/u/images/themes/katy/ghosts/person/ghost_person_100x100_v1.png" width="60" height="60" alt="&#x42e;&#x440;&#x438;&#x439; &#x424;&#x435;&#x434;&#x43e;&#x440;&#x447;&#x443;&#x43a;"/>
+</a>
+</li>
+<li class="vcard">
+<ul class="actions">
+<li class="view-profile">
+<button class="btn-primary" data-href="https://www.linkedin.com/reg/join-pprofile?_ed=0_br9INl3-5oDlaE1whhCb1qDBtnIiOJxUrOjmtmwtOdQHofbVm2Y-mf9zhkbvzZaNe9s1aW3gCxVEhDFSkylYU6MPRNV9_tAiNKz4HBIabjp&amp;trk=ndir_viewmore"><span><strong>View Full Profile</strong></span>
+</button>
+<li>
+</ul>
+<h2>
+<strong>
+<a href="https://ua.linkedin.com/pub/%D1%8E%D1%80%D0%B8%D0%B9-%D1%84%D0%B5%D0%B4%D0%BE%D1%80%D1%87%D1%83%D0%BA/b0/178/582" title="&#x42e;&#x420;&#x418;&#x419; &#x424;&#x415;&#x414;&#x41e;&#x420;&#x427;&#x423;&#x41a;">
+<span class="given-name">&#x42e;&#x420;&#x418;&#x419;</span> <span class="family-name">&#x424;&#x415;&#x414;&#x41e;&#x420;&#x427;&#x423;&#x41a;</span></a>
+</strong>
+</h2>
+<dl class="vcard-basic">
+<dt>Title</dt>
+<dd class="title">наладчик токарного чпу - тов&quot;кий-в&quot;</dd>
+<dt>Demographic info</dt>
+<dd>
+<span class="location">
+Ukraine
+</span>
+<span class="split"> | </span>
+<span class="industry">
+Mechanical or Industrial Engineering
+</span>
+</dd>
+</dl>
+<dl class="vcard-expanded">
+<dt class="current">Current</dt>
+<dd class="current-content">
+<span>
+&#x43d;&#x430;&#x43b;&#x430;&#x434;&#x447;&#x438;&#x43a; &#x442;&#x43e;&#x43a;&#x430;&#x440;&#x43d;&#x43e;&#x433;&#x43e; &#x447;&#x43f;&#x443; &#x432; &#x43a;&#x43e;&#x43c;&#x43f;&#x430;&#x43d;&#x438;&#x438; &#x442;&#x43e;&#x432;&quot;&#x43a;&#x438;&#x439;-&#x432;&quot;
+</span>
+</dd>
+<dt class="education">Education</dt>
+<dd class="education-content">
+<span>
+&#x43d;&#x43e;&#x432;&#x43e;&#x433;&#x440;&#x430;&#x434;-&#x432;&#x43e;&#x43b;&#x44b;&#x43d;&#x441;&#x43a;&#x438;&#x439; &#x43c;&#x430;&#x448;&#x438;&#x43d;&#x43e;&#x441;&#x442;&#x440;&#x43e;&#x438;&#x442;&#x435;&#x43b;&#x44c;&#x43d;&#x44b;&#x439; &#x442;&#x435;&#x445;&#x43d;&#x438;&#x43a;&#x443;&#x43c;
+</span>
+</dd>
+</dl>
+<a href="https://ua.linkedin.com/pub/%D1%8E%D1%80%D0%B8%D0%B9-%D1%84%D0%B5%D0%B4%D0%BE%D1%80%D1%87%D1%83%D0%BA/b0/178/582" class="profile-photo" title="&#x42e;&#x420;&#x418;&#x419; &#x424;&#x415;&#x414;&#x41e;&#x420;&#x427;&#x423;&#x41a;">
+<img src="http://s.c.lnkd.licdn.com/scds/common/u/images/themes/katy/ghosts/person/ghost_person_100x100_v1.png" width="60" height="60" alt="&#x42e;&#x420;&#x418;&#x419; &#x424;&#x415;&#x414;&#x41e;&#x420;&#x427;&#x423;&#x41a;"/>
+</a>
+</li>
+<li class="vcard">
+<ul class="actions">
+<li class="view-profile">
+<button class="btn-primary" data-href="https://www.linkedin.com/reg/join-pprofile?_ed=0_br9INl3-5oDlaE1whhCb1qDBtnIiOJxUrOjmtmwtOdQHofbVm2Y-mf9zhkbvzZaN9dGfP3P38i-HVc9nB7ERnxlQELDqE_YCHaG54NylOip&amp;trk=ndir_viewmore"><span><strong>View Full Profile</strong></span>
+</button>
+<li>
+</ul>
+<h2>
+<strong>
+<a href="https://ru.linkedin.com/pub/%D1%8E%D1%80%D0%B8%D0%B9-%D1%84%D0%B5%D0%B4%D0%BE%D1%80%D1%87%D1%83%D0%BA/b5/620/aa" title="&#x42e;&#x440;&#x438;&#x439; &#x424;&#x435;&#x434;&#x43e;&#x440;&#x447;&#x443;&#x43a;">
+<span class="given-name">&#x42e;&#x440;&#x438;&#x439;</span> <span class="family-name">&#x424;&#x435;&#x434;&#x43e;&#x440;&#x447;&#x443;&#x43a;</span></a>
+</strong>
+</h2>
+<dl class="vcard-basic">
+<dt>Title</dt>
+<dd class="title">водитель - ООО</dd>
+<dt>Demographic info</dt>
+<dd>
+<span class="location">
+Komi Republic, Russian Federation imafos_t@ukr.net
+</span>
+<span class="split"> | </span>
+<span class="industry">
+Legal Services
+</span>
+</dd>
+</dl>
+<dl class="vcard-expanded">
+<dt class="current">Current</dt>
+<dd class="current-content">
+<span>
+&#x432;&#x43e;&#x434;&#x438;&#x442;&#x435;&#x43b;&#x44c; &#x432; &#x43a;&#x43e;&#x43c;&#x43f;&#x430;&#x43d;&#x438;&#x438; &#x41e;&#x41e;&#x41e;
+</span>
+</dd>
+</dl>
+<a href="https://ru.linkedin.com/pub/%D1%8E%D1%80%D0%B8%D0%B9-%D1%84%D0%B5%D0%B4%D0%BE%D1%80%D1%87%D1%83%D0%BA/b5/620/aa" class="profile-photo" title="&#x42e;&#x440;&#x438;&#x439; &#x424;&#x435;&#x434;&#x43e;&#x440;&#x447;&#x443;&#x43a;">
+<img src="http://s.c.lnkd.licdn.com/scds/common/u/images/themes/katy/ghosts/person/ghost_person_100x100_v1.png" width="60" height="60" alt="&#x42e;&#x440;&#x438;&#x439; &#x424;&#x435;&#x434;&#x43e;&#x440;&#x447;&#x443;&#x43a;"/>
+</a>
+</li>
+</ol>
+<div class="pagination"> Showing 10 of 10 profiles
+</div>
+<div class="related-searches">
+<h2>Related Names</h2>
+<ul>
+<li>
+<a href="http://ua.linkedin.com/pub/dir/+/%D0%A4%D0%B5%D0%B4%D0%BE%D1%80%D1%87%D1%83%D0%BA">Федорчук</a>
+(Last Name)
+</li>
+<li>
+<a href="http://ua.linkedin.com/pub/dir/%D0%AE%D1%80%D0%B8%D0%B9/+">Юрий</a>
+(First Name)
+</li>
+</ul>
+</div>
+<div class="join-banner">
+<p class="join-now">
+<a href="https://www.linkedin.com/reg/join-context?_ed=0_7BMoeRqM3DodnOb52JVGLnUqS_XL1k3jiCD7mag1V_isgL24S5uHY9lc9oUmIXTPFkFVFEbHI2a1EMVtzmqbJzQLY-2dYxrkdPbkLhXRPqflu4YA0Uxa3F3mtrPB8l8YW1xLmceKzQs822UfJT4EoWSI9qrtxCDhHrOVyuDRwNq&trk=ndir_getpro" class="btn-join" rel="nofollow">
+<span><em class="join">Join Linkedin</em> to see all 10 profiles.</span>
+</a>
+</p>
+<p class="action">
+<a href="https://www.linkedin.com/reg/join-context?_ed=0_7BMoeRqM3DodnOb52JVGLnUqS_XL1k3jiCD7mag1V_isgL24S5uHY9lc9oUmIXTPFkFVFEbHI2a1EMVtzmqbJzQLY-2dYxrkdPbkLhXRPqflu4YA0Uxa3F3mtrPB8l8YW1xLmceKzQs822UfJT4EoWSI9qrtxCDhHrOVyuDRwNq&trk=ndir_getpro" class="btn-join" rel="nofollow">
+<span>Join Now</span>
+</a>
+</p>
+</div>
+<div id="extra">
+<div class="advertising">
+<script type="text/javascript">var dbl_page='public_directory';</script>
+<script type="text/javascript" src="http://s.c.lnkd.licdn.com/scds/concat/common/js?h=b0otj9zjsih2zu4s3gxjejik2"></script>
+<script type="text/javascript">//<![CDATA[
+var google_keywords=null,google_ad_client='pub-2283433109277150',google_ad_width=160,google_ad_height=600,google_ad_format='160x600_as';var dbl_src="http:\/\/ad.doubleclick.net\/adj\/linkedin.dart\/"+dbl_page+";;lang=en;tile=1;dcopt=ist;sz=160x600;"+encodeURIComponent('extra=null')+";ord="+Math.random()*10000000000000000+"?";document.write('<script src="'+dbl_src+'" type="text/javascript"><\/script>');
+//]]></script>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script type="text/javascript" src="http://s.c.lnkd.licdn.com/scds/concat/common/js?h=7fpth9rck8r23159y50aqi9k1"></script>
+<meta name="pageKey" content="public_directory">
+<script type="text/javascript">//<![CDATA[
+(function(){function readCookie(name){var nameEQ=name+"=";var ca=document.cookie.split(';');for(var i=0;i<ca.length;i++){var c=ca[i];while(c.charAt(0)==' ')c=c.substring(1,c.length);if(c.indexOf(nameEQ)==0)return c.substring(nameEQ.length,c.length);}
+return null;}
+if(typeof(XMLHttpRequest)==="undefined"){XMLHttpRequest=function(){try{return new ActiveXObject("Msxml2.XMLHTTP.6.0");}catch(e){}
+try{return new ActiveXObject("Msxml2.XMLHTTP.3.0");}catch(e){}
+try{return new ActiveXObject("Msxml2.XMLHTTP");}catch(e){}
+try{return new ActiveXObject("Microsoft.XMLHTTP");}catch(e){}
+throw new Error("This browser does not support XMLHttpRequest.");};}
+var req=new XMLHttpRequest(),bcookie=escape(readCookie("bcookie")),newTrkInfo='\u042E\u0440\u0438\u0439,\u0424\u0435\u0434\u043E\u0440\u0447\u0443\u043A ,'+document.referrer.substr(0,128)+'   ',alias_secure='https://www.linkedin.com/analytics/noauthtracker?type=leo%2EpageTracking&pageType=full_page&pageKey=public_directory_jsbeacon&trackingInfo=REPLACEME',alias_normal='/analytics/noauthtracker?type=leo%2EpageTracking&pageType=full_page&pageKey=public_directory_jsbeacon&trackingInfo=REPLACEME',is_secure=false,url=(is_secure)?alias_secure:alias_normal;url=url.replace("REPLACEME",newTrkInfo);if(bcookie){req.open('get',url);req.send(null);}})();
+//]]></script>
+<div id="footer" class="snd">
+<div id="directory">
+<h3>LinkedIn members in Ukraine:</h3>
+<ol type="a" class="primary">
+<li><a href="http://www.linkedin.com/directory/people-a">a</a></li>
+<li><a href="http://www.linkedin.com/directory/people-b">b</a></li>
+<li><a href="http://www.linkedin.com/directory/people-c">c</a></li>
+<li><a href="http://www.linkedin.com/directory/people-d">d</a></li>
+<li><a href="http://www.linkedin.com/directory/people-e">e</a></li>
+<li><a href="http://www.linkedin.com/directory/people-f">f</a></li>
+<li><a href="http://www.linkedin.com/directory/people-g">g</a></li>
+<li><a href="http://www.linkedin.com/directory/people-h">h</a></li>
+<li><a href="http://www.linkedin.com/directory/people-i">i</a></li>
+<li><a href="http://www.linkedin.com/directory/people-j">j</a></li>
+<li><a href="http://www.linkedin.com/directory/people-k">k</a></li>
+<li><a href="http://www.linkedin.com/directory/people-l">l</a></li>
+<li><a href="http://www.linkedin.com/directory/people-m">m</a></li>
+<li><a href="http://www.linkedin.com/directory/people-n">n</a></li>
+<li><a href="http://www.linkedin.com/directory/people-o">o</a></li>
+<li><a href="http://www.linkedin.com/directory/people-p">p</a></li>
+<li><a href="http://www.linkedin.com/directory/people-q">q</a></li>
+<li><a href="http://www.linkedin.com/directory/people-r">r</a></li>
+<li><a href="http://www.linkedin.com/directory/people-s">s</a></li>
+<li><a href="http://www.linkedin.com/directory/people-t">t</a></li>
+<li><a href="http://www.linkedin.com/directory/people-u">u</a></li>
+<li><a href="http://www.linkedin.com/directory/people-v">v</a></li>
+<li><a href="http://www.linkedin.com/directory/people-w">w</a></li>
+<li><a href="http://www.linkedin.com/directory/people-x">x</a></li>
+<li><a href="http://www.linkedin.com/directory/people-y">y</a></li>
+<li><a href="http://www.linkedin.com/directory/people-z">z</a></li>
+<li><a href="http://www.linkedin.com/directory/people-1">more</a></li>
+</ol>
+<h3>Browse members</h3> <p><a href="/static?key=country_listing">by country</a></p>
+</div>
+<div class="wrapper">
+<p id="copyright"><a href="http://ua.linkedin.com/">LinkedIn</a> Corporation &copy; 2015</p>
+<ul id="nav-legal">
+<li><a href="http://www.linkedin.com/static?key=user_agreement&trk=hb_ft_userag">User Agreement</a></li>
+<li><a href="/redir/redirect?url=http%3A%2F%2Fpress%2Elinkedin%2Ecom%2Fabout&urlhash=ONnW">About LinkedIn</a></li>
+<li class="last"><a href="http://www.linkedin.com/static?key=privacy_policy&trk=hb_ft_priv">Privacy Policy</a></li>
+</ul>
+<p id="terms-of-use">
+Use of this site is subject to express terms of use, which prohibit commercial use of this site. By continuing past this page, you agree to abide by these terms.
+</p>
+</div>
+</div>
+<script type="text/javascript">var _pagekey=document.getElementsByName('pageKey')[0];if(_pagekey){_pagekey=_pagekey.getAttribute('content');document.body.id='pagekey-'+_pagekey;}
+if(!window.LI){window.LI={};}
+LI.RUM=LI.RUM||{};(function(RUM,win){var doc=win.document,MEDIA_PROXY_URL_SNIPPET='media-proxy/',PERMENENT_CONTENT_URL_SNIPPET='scds/common/u/';RUM.flags=RUM.flags||{};RUM.flags['host-flag']="control";RUM.flags['pop_beacons_frequency']="n100-ap0-la0-va0-tx0-sg0-db0-hk0";RUM.flags['rs_timings_individual']="control";RUM.urls=RUM.urls||{};RUM.urls['rum-track']="/lite/rum-track";RUM.urls['boomerang-bw-img']="http://s.c.lnkd.licdn.com/scds/common/u/lib/boomerang/0.9.edge.4ab208445a/img/";RUM.base_urls=RUM.base_urls||{};RUM.base_urls['permanent_content']="http://s.c.lnkd.licdn.com/scds/common/u/";RUM.base_urls['versioned_content']="http://s.c.lnkd.licdn.com/scds/concat/common/";RUM.base_urls['media_proxy']=""||"http://s.c.lnkd.licdn.com/scds/common/u/".replace(PERMENENT_CONTENT_URL_SNIPPET,MEDIA_PROXY_URL_SNIPPET);RUM.enabled=true;}(LI.RUM,window));</script>
+<script type="text/javascript" src="http://s.c.lnkd.licdn.com/scds/concat/common/js?h=4zslye83akez5s4mf91hrq425-95d8d303rtd0n9wj4dcjbnh2c-ed29nkjpsa16bhrjq4na16owq-1mucgfycc664m7vmhpjgqse65-1l5rurej3h44qodo5rn0cdvyn-8om6v2ckrxsbnwf40t9ta8a7e-976eucr14azn1gu6x533uu349-2synzw3ivmhrn50ohpnw25tmi-1y9z2glmtedcvrfyiqkhck034-1m0whdrwis44c1hoa9mrwhlt4-aac54ic1fmca5xz1yvc5t9nfe-9xdvp93ecvqi1g6yr4ltw6w78"></script>
